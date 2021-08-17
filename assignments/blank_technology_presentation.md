@@ -1,6 +1,6 @@
 # Information Technologies
 # INFO 654-04
-# Fall 2020
+# Fall 2021
 
 ## Blank Technology Canvas Pitch Presentation (10% of total grade)
 
@@ -36,4 +36,4 @@ Presentations should also incorporate at least a few images (photographs, screen
 
 Note: If you choose to use a tool besides PowerPoint, Keynote, Google Slides, Slides.com, or Prezi, please have it approved in advance to make sure the software is available in the classroom to support your presentation.
 
-- Email the file or a link to the presentation to ashley.blewer@gmail.com and josh.hadro@gmail.com to turn in the assignment before class on the day it is due  
+- Email the file or a link to the presentation to josh.hadro@gmail.com to turn in the assignment before class on the day it is due  

@@ -1,6 +1,6 @@
 # Information Technologies
 # INFO 654-04
-# Fall 2020
+# Fall 2021
 
 **Personal Home Page (20% of total grade)**
 

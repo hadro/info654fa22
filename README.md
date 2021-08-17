@@ -14,13 +14,12 @@ See you in class!
 
 *Credits*: 3  
 
-*Day and Time*: Monday 06:30PM - 09:20PM  
+*Day and Time*: Wednesday 06:30PM - 09:20PM  
 
 *Location*: Remote Zoom Room (see email from us for link)
 [If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
 *Instructors*:  
-- Ashley Blewer (You can call me "Ashley", pronouns she/hers)
 - Josh Hadro (You can call me "Josh", pronouns he/his)
 
 *Office Hours*: by appointment  

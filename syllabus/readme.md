@@ -7,16 +7,13 @@
 [If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
 Instructors:
-- Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
-  - ashley.blewer at gmail dot com
-  - \(803) 403-5013
 - Josh Hadro (please call me "Josh", pronouns are he/him/his)
   - josh.hadro at gmail dot com
   - \(917) 428-4152
 
 Office Hours: by appointment
 
-**Tech Tutor(s) for Fall 2020:**  
+**Tech Tutor(s) for Fall 2021:**  
 Email: <techtuto@pratt.edu>
 
 **Course Collaborative Notes**  
@@ -26,11 +23,11 @@ session 2, -6 for class session 6, etc.\]
 N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
 **Course WordPress site:**  
-<https://commons.pratt.edu/prattsi654fa20/>
+<https://commons.pratt.edu/prattsi654fa21/>
 (invitations and logins to come)
 
 **Assignments**
-<https://github.com/hadro/info654fa20/tree/master/assignments>  
+<https://github.com/hadro/info654fa21/tree/master/assignments>  
 
 **Course hashtag**
 [\#INFO654](https://twitter.com/search?f=tweets&q=%23info654)

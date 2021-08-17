@@ -1,6 +1,6 @@
 # Information Technologies
 # INFO 654-04
-# Fall 2020
+# Fall 2021
 
 **Reflection Posts (25% of total grade)**
 

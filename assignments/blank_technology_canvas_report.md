@@ -1,6 +1,6 @@
 # Information Technologies
 # INFO 654-04
-# Fall 2020
+# Fall 2021
 
 ## Blank Technology Canvas Report (25% of total grade)
 
@@ -49,4 +49,4 @@ The written proposal should provide a narrative synthesizing the inspiration exa
 
 - All of the above to be turned in as part of a single website with all the components linked from the home page (using Wordpress or other site creation tool)  
 
-Email the address of the website to ashley.blewer@gmail.com and josh.hadro@gmail.com to turn in the assignment before class on the day it is due  
+Email the address of the website to josh.hadro@gmail.com to turn in the assignment before class on the day it is due  
