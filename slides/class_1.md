@@ -30,15 +30,13 @@ class: center, middle
 **Location**: Remote Zoom Room (see email from us for link)
 [If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
-## Your instructors
+## Your instructor
 
-- Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
-  - Email and phone in syllabus
 - Josh Hadro (please call me "Josh", pronouns are he/him/his)
   - Email and phone in syllabus
 
 ---
-How we generally structure class (`Meta-structure!`):
+How I generally structure class (`Meta-structure!`):
 
 - Attendance
 - Agenda
@@ -63,7 +61,7 @@ How we generally structure class (`Meta-structure!`):
 - Meta-agenda (mind blown!)
 - Intro
 - Instructors
-  - Who we are
+  - Who I am
 - Who you are
 - Syllabus
   - Course Philosophy
@@ -101,17 +99,17 @@ class: center, middle
 ## Tools
 
 - Zoom (or backup if Zoom is having issues)
-- [Slack](http://info654fa20.slack.com/)
-- [WordPress](https://commons.pratt.edu/prattsi654fa20/)
+- [Slack](https://prattischool.slack.com/archives/C02CSAWEVQV)
+- [WordPress](https://lis654fa21.wordpress.com/)
 - Slides ([remark.js](https://github.com/gnab/remark))
-- [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa20-1)
+- [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa21-1)
 - Good old email
 
 ---
 
 ## Recording class
 
-We're willing to record class sessions *upon request*.  
+We'll consider recording individual class sessions, or sections of a class, *upon request*.  
 So everyone should know that's a possibility, and we'll also make it clear as it is happening.
 
 Meanwhile, links to the recordings will only be made available to students in this class, and should not be shared with others or posted publicly.
@@ -178,7 +176,7 @@ class: center, middle
 # Syllabus
 
 The canonical version of the syllabus lives in our class Github repository:
-[INFO 654-04 Syllabus](https://hadro.github.io/info654fa20/syllabus/)
+[INFO 654-04 Syllabus](https://hadro.github.io/info654fa21/syllabus/)
 
 --
 ## We'll go section by section
@@ -189,9 +187,9 @@ The canonical version of the syllabus lives in our class Github repository:
 
 Before we get to the syllabus, a quick note:
 
-Ashley and I come from a library/archives background.
+I come from a library/archives background.
 
-But when we say "library", that doesn't always just mean library -- for the most part, we mean GLAM and information professions more broadly!
+But when I say "library", that doesn't always just mean library -- for the most part, I mean GLAM and information professions more broadly!
 
 (We'll make it clear when we mean libraries/archives/museums/UX roles as completely distinct)
 
@@ -217,8 +215,8 @@ While the assignments, other than the presentation assignment, don't require gro
 # Assignments
 
 - News of the Week
-- [Inspiration posts](https://hadro.github.io/info654fa20/assignments/reflection_and_inspiration_posts)
-- [Reflection posts](https://hadro.github.io/info654fa20/assignments/reflection_and_inspiration_posts#reflection-posts)
+- [Inspiration posts](https://hadro.github.io/info654fa21/assignments/reflection_and_inspiration_posts)
+- [Reflection posts](https://hadro.github.io/info654fa21/assignments/reflection_and_inspiration_posts#reflection-posts)
 - Personal Homepage project
 - Blank Technology Canvas project
   - Presentation
@@ -243,7 +241,7 @@ class: center, middle
 2. Log into Slack
 3. Send a message to the #general channel that includes your favorite emoji 🎉
 
-[http://info654fa20.slack.com/](http://info654fa20.slack.com/)
+[https://prattischool.slack.com/archives/C02CSAWEVQV](https://prattischool.slack.com/archives/C02CSAWEVQV)
 
 ---
 ## In-class exercise 2
