@@ -3,10 +3,10 @@
 **Section**: INFO 654-04  
 **Credits**: 3  
 **Day and Time**: Wednesday 06:30PM - 09:20PM  Eastern Time  
-**Location**: Remote Zoom Room (see email from us for link)
-[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
+**Location**: Remote Zoom Room (see email from me for link + passcode)
+[If zoom overall is having issues, I'll email you a link to a backup/alternative meeting plan]
 
-Instructors:
+Instructor:
 - Josh Hadro (please call me "Josh", pronouns are he/him/his)
   - josh.hadro at gmail dot com
   - \(917) 428-4152
@@ -17,14 +17,18 @@ Office Hours: by appointment
 Email: <techtuto@pratt.edu>
 
 **Course Collaborative Notes**  
-<https://etherpad.wikimedia.org/p/prattsi654fa20-1>  
+<https://etherpad.wikimedia.org/p/prattsi654fa21-1>  
 \[increment last digit for subsequent class numbers, e.g. -2 for class
 session 2, -6 for class session 6, etc.\]  
 N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
 **Course WordPress site:**  
-<https://commons.pratt.edu/prattsi654fa21/>
+<https://lis654fa21.wordpress.com/>
 (invitations and logins to come)
+
+**Course Slack Channel:** #654-04-fall-2021
+<https://prattischool.slack.com/archives/C02CSAWEVQV>
+(Requires Pratt SSO (Single Sign-On) which should be your Onekey username and password)
 
 **Assignments**
 <https://github.com/hadro/info654fa21/tree/master/assignments>  
@@ -59,8 +63,9 @@ foundation for future technology-related coursework.
     changes of information technologies and their impact on information
     organizations
 
-**Upon successful completion of this course, a student will be able
-to:**
+## Student Learning Outcomes
+
+**Upon successful completion of this course, a student will be able to:**
 
 -   Understand, use, discuss, and be able to help others with core
     computing technologies, including hardware, operating systems,
@@ -111,7 +116,7 @@ office or see above.
 
 ## Class Schedule
 
-### August 26 --- [Introduction and Information Technology Basics](../slides/class_1.html)
+### September 01 --- [Introduction and Information Technology Basics](../slides/class_1.html)
 
 In class: We will meet each other, learn about the class, and set up WordPress blog profiles!
 
@@ -119,7 +124,7 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 A list of slides will become available [here](../slides/index.html).
 
-### September 02 --- [The Internet, Networks, and Protocols](../slides/class_2.html)
+### September 08 --- [The Internet, Networks, and Protocols](../slides/class_2.html)
 
 **Due: Technology and Service Inspiration Post 1**
 
@@ -133,7 +138,7 @@ Readings:
 - 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7min)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
-### September 09 --- [Web Design Basics: HTML (LAB)](../slides/class_3.html)
+### September 15 --- [Web Design Basics: HTML (LAB)](../slides/class_3.html)
 
 **Due: Reflection Post 1**
 
@@ -153,7 +158,7 @@ Technical resources:
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
-### September 16 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
+### September 22 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
 
 Readings:
 
@@ -172,7 +177,7 @@ Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### September 23 --- [File Formats and Web Design Wrap-up](../slides/class_5.html)
+### September 29 --- [File Formats and Web Design Wrap-up](../slides/class_5.html)
 
 **Due: Technology and Service Inspiration Post 2**
 
@@ -188,7 +193,7 @@ Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
-### September 30 --- [Usability, User Experience, and Universal Design](../slides/class_6.html)
+### October 06 --- [Usability, User Experience, and Universal Design](../slides/class_6.html)
 
 **Due: Reflection Post 2**
 
@@ -210,7 +215,7 @@ Resources:
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
 - [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
-### October 07 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
+### October 13 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
 
 Readings:
 
@@ -224,7 +229,7 @@ Readings:
 - 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158) (18 min)
 
 
-### October 14 --- [APIs and Linked Data (LAB)](../slides/class_8.html)
+### October 20 --- [APIs and Linked Data (LAB)](../slides/class_8.html)
 
 **Due: Personal homepage**
 
@@ -239,7 +244,7 @@ Readings:
 - 2017-10-19. Mia Ridge. [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
 
-### October 21 --- [Technology Law and Ethics](../slides/class_9.html)
+### October 27 --- [Technology Law and Ethics](../slides/class_9.html)
 
 Readings:
 
@@ -258,7 +263,7 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 - [ALA Code of Ethics](http://www.ala.org/tools/ethics)
 - [Mapping open source in museums](https://geealbers.github.io/mapping-open-source/network/)
 
-### October 28 --- [Data analysis and visualization, and privacy/security/content moderation](../slides/class_10.html)
+### November 03 --- [Data analysis and visualization, and privacy/security/content moderation](../slides/class_10.html)
 
 **Due: Technology and Service Inspiration Post 3**
 
@@ -277,7 +282,17 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
-### November 04 --- [Content Management, Digital Asset Management, Digital Preservation](../slides/class_11.html)
+### November 10 --- Blank Technology Canvas Pitch Presentations Feedback
+
+**Due: Blank Technology Canvas Pitch Presentations**
+
+
+### November 17 --- Blank Technology Canvas Pitch Presentations Feedback
+**Due: Reflection Post 3**
+
+### November 24 --- NO CLASS!
+
+### December 01 --- [Content Management, Digital Asset Management, Digital Preservation](../slides/class_11.html)
 
 Readings:
 
@@ -290,17 +305,7 @@ References:
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
-
-### November 11 --- Blank Technology Canvas Pitch Presentations Feedback
-
-**Due: Blank Technology Canvas Pitch Presentations**
-
-### November 18 --- Blank Technology Canvas Pitch Presentations Feedback
-**Due: Reflection Post 3**
-
-### November 25 --- NO CLASS!
-
-### December 02 --- [Databases and Structured Queries (LAB)](../slides/class_14.html)
+### December 08 --- [Databases and Structured Queries (LAB)](../slides/class_14.html)
 
 Readings:
 
@@ -323,7 +328,7 @@ Extra reading (useful to try in conjunction with reading directly
 above):  
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
-### December 09 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
+### December 15 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
 
 **Due: Blank Technology Canvas Final Report Site**
 
@@ -367,9 +372,6 @@ provided below with some regularity.
 <http://scholarlykitchen.sspnet.org/>  
 <http://www.dlib.org/>  
 <http://firstmonday.org/>  
-<http://www.libraryinnovation.org/>  
-<http://lj.libraryjournal.com/category/technology/>  
-<https://americanlibrariesmagazine.org/>  
 
 **Email lists and Newsletters:**
 
@@ -395,14 +397,14 @@ provided below with some regularity.
 - <https://news.ycombinator.com/>
 - Twitter
 
-## Coding tutorials:
+## Coding tutorials and sandboxes:
 
 - [Codecademy](https://www.codecademy.com)
-- [CodeNewbie](https://codenewbie.org)
 - [Programming Historian](https://programminghistorian.org/lessons/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
-- [Lynda.com](http://lynda.com/) [Available to you for [free with an NYPL
+- [LinkedIn Learning](https://www.linkedin.com/learning-login/go/nypl) [Available to you for [free with an NYPL
 card](https://www.nypl.org/collections/articles-databases/lyndacom)!]
+- [Glitch.com](https://glitch.com/)
 
 ## Projects, Papers, and Assignments
 
@@ -425,6 +427,18 @@ your instructor.
 6.  News of the Week (5%)
 6.  Class discussion and participation (5%)
 
+**Technology and Service Inspiration Posts (10%)**
+
+Students will contribute three brief (150 word minimum) posts to the
+class blog over the course of the semester. The posts should include: an
+excerpted portion, quote, or embed (with Fair Use criteria in mind; see
+Fair Use appendix below) and direct link to the source; and a brief
+summary or explanation of the connection of the technology inspiration
+source to the provision of service in an information resource setting. A
+separate assignment sheet with specific blog post and format criteria
+will be distributed the first day of class.
+
+
 **Reflection Posts (25%)**
 
 Students will contribute three significant posts to the class blog over
@@ -440,16 +454,6 @@ concerns to the library and archives communities. A separate assignment
 sheet with specific blog post and format criteria will be distributed
 the first day of class.
 
-**Technology and Service Inspiration Posts (10%)**
-
-Students will contribute three brief (150 word minimum) posts to the
-class blog over the course of the semester. The posts should include: an
-excerpted portion, quote, or embed (with Fair Use criteria in mind; see
-Fair Use appendix below) and direct link to the source; and a brief
-summary or explanation of the connection of the technology inspiration
-source to the provision of service in an information resource setting. A
-separate assignment sheet with specific blog post and format criteria
-will be distributed the first day of class.
 
 **Personal Homepage (20%)**
 
@@ -532,24 +536,19 @@ your portfolio.
 
 ## Attendance/Participation:
 
-Attendance at all class meetings is required. A student who must be
-absent from a class meeting still has certain responsibilities:
+Attendance in class is the most valuable way to learn both from the instructor and from your peers. Of course, absences are at times unavoidable. A student who must be absent from a class meeting still has certain responsibilities:
 
--   To inform the instructor in advance, or if advance notice is not
-    possible, as soon after the absence as possible to arrange for
-    delivery to the instructor of any assignment due at the class
-    meeting.
+-   To inform the instructor in advance, or if advance notice is not possible given the circumstances, as soon after the absence as possible to arrange for delivery to the instructor of any assignment due at the class meeting.
 
 -   To obtain notes, handouts, etc. from a classmate (in anticipation of
     this need, each student is advised to exchange contact information
     with one or two others in the class).
 
--   Points are deducted for: unexcused absences, coming late to class,
-    or leaving class early.
+-   Unexcused absences will necessarily result in diminished participation grade.
 
 -   Active participation includes, but is not limited to the following:
 
-    -   Being involved in class discussions.
+    -   Being involved in class discussions, whether via voice or via chat or other class mechanism or technology.
 
     -   Asking relevant questions, debating, or challenging points.
 
@@ -566,57 +565,35 @@ fault, it is the responsibility of the student to provide a second copy.
 
 ## Academic Integrity Code
 
-Academic integrity at Pratt means using your own and original ideas in
-creating academic work. It also means that if you use the ideas or
-influence of others in your work, you must acknowledge them. For more
-information on Pratt’s Academic Integrity Standards, please visit
-http://bit.ly/prattacademicintegrity.
+Academic integrity at Pratt means using your own and original ideas in creating academic work. It also means that if you use the ideas or influence of others in your work, you must acknowledge them. For more information on Pratt’s Academic Integrity Standards, please visit http://bit.ly/prattacademicintegrity
 
 ## Students with Disabilities and Accessibility
 
-Pratt Institute is committed to the full inclusion of all students. If
-you are a student with a disability and require accommodations, please
-contact the Learning/Access Center (L/AC) at LAC@pratt.edu to schedule
-an appointment to discuss these accommodations. Students with
-disabilities who have already registered with the L/AC are encouraged to
-speak to the professor about accommodations they may need to produce an
-accessible learning environment.
+Pratt Institute is committed to the full inclusion of all students. If you are a student with a disability and require accommodations, please contact the Learning/Access Center (L/AC) at LAC@pratt.edu to schedule an appointment to discuss these accommodations. Students with disabilities who have already registered with the L/AC are encouraged to speak to the professor about accommodations they may need to produce an accessible learning environment. 
 
-Requests for accommodation should be made as far in advance as
-reasonably possible to allow sufficient time to make any necessary
-modifications to ensure the relevant classes, programs, or activities
-are readily accessible. The Learning/Access Center is available to Pratt
-students,confidentially, with additional resources and information to
-facilitate full access to all campus programs and activities and provide
-support related to any other disability-related matters. For more
-information, please visit http://www.pratt.edu/accessibility/.
+Requests for accommodation should be made as far in advance as reasonably possible to allow sufficient time to make any necessary modifications to ensure the relevant classes, programs, or activities are readily accessible. The Learning/Access Center is available to Pratt students, confidentially, with additional resources and information to facilitate full access to all campus programs and activities and provide support related to any other disability-related matters.
+
+For more information, please visit http://www.pratt.edu/accessibility/.   
+
 
 ## Human Rights, Equity, BERT, and Title IX
 
-Pratt Institute seeks to provide an environment that is free of bias,
-discrimination, and harassment. If you have been the victim of
-harassment, discrimination, bias, or sexual misconduct, we encourage you
-to report this.
+Pratt Institute seeks to provide an environment that is free of bias, discrimination, and harassment.  If you have been the victim of harassment, discrimination, bias, or sexual misconduct, we encourage you to report this.  
 
-If you inform me (your professor) of an issue of harassment,
-discrimination or bias, or sexual misconduct I will keep the information
-as private as I can, but I am required to bring it to the attention of
-the institution’s Title IX Coordinator. You can access Title IX services
-by emailing titleix@pratt.edu. You can also speak to someone
-confidentially by contacting our non-mandatory reporters: Health
-Services at 718-399-4542, Counseling Services 718-687-5356 or Campus
-Ministries 718-596-4840.
+To report an incident regarding a student, faculty, or staff member, please fill out the Bias, Discrimination & Sexual Misconduct Incident Form (http://bit.ly/pratt_biasform). Submitting an incident report allows the Institute to investigate and take appropriate actions to address your concerns.
 
-In cases of Bias, this information may go to our Bias Education &
-Response Taskforce (BERT). You can contact BERT by either reaching out
-directly via bert@pratt.edu or by contacting the BERT Co-Chair and Title
-IX Coordinator, Dr. Esmilda Abreu. For more information, please refer to
-the Community Standards webpage: http://bit.ly/prattcommunitystandards.
+If you inform me (your professor) of an issue of harassment, discrimination or bias, or sexual misconduct I will keep the information as private as I can, however, I am required to bring it to the attention of the institution’s Title IX Coordinator. You can access Title IX services by emailing titleix@pratt.edu. You can also speak to someone confidentially by contacting our non-mandatory reporters: Health Services at 718-399-4542, Counseling Services 718-687-5356 or Campus Ministries 718-596-4840. 
+
+In incidents where you may prefer to place an anonymous report in confidence, you are encouraged to submit reports through EthicsPoint (http://bit.ly/pratt_ethicspoint).
+
+If you have any questions about filing or completing an incident report, please contact the Director of Diversity, Equity, and Inclusion or the Title IX Coordinator, by emailing bias@pratt.edu.
+  
+For more information, please refer to the Community Standards webpage: http://bit.ly/prattcommunitystandards. 
+
 
 ## Communication
 
-The best way to contact the instructor via email
-(<ashley.blewer@gmail.com> and <josh.hadro@gmail.com>). I will
+The best way to contact me is via email (<josh.hadro@gmail.com>). I will
 make every effort to respond within 24 hours during the school week,
 though there may be a delay on weekends (weekends are important for
 everyone!). Should this communication preference change, you will be
@@ -632,7 +609,8 @@ understood that the instructor may adapt or change this syllabus and the
 assignments contained within it according to circumstances that may
 arise during the course of the class.
 
-## Appendix: On Fair Use
+Appendix: On Fair Use
+=====================
 
 Fair use is an extremely important facet of the information industry,
 and is an essential component of the law to understand and be able to
@@ -644,34 +622,26 @@ who might benefit from fair use.
 
 <http://www.law.cornell.edu/uscode/text/17/107>
 
-Notwithstanding the provisions of sections
-[106](http://www.law.cornell.edu/uscode/text/17/106) and
-[106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use
-of a copyrighted work, including such use by reproduction in copies or
-phonorecords or by any other means specified by that section, for
-purposes such as criticism, comment, news reporting, teaching
-(including multiple copies for classroom use), scholarship, or
-research, is not an infringement of copyright. In determining whether
-the use made of a work in any particular case is a fair use the
-factors to be considered shall include---
-
-(1) **the purpose and character of the use, including whether such use
-    is of a commercial nature or is for nonprofit educational
-    purposes;**
-
-(2) **the nature of the copyrighted work;**
-
-(3) **the amount and substantiality of the portion used in relation to
-    the copyrighted work as a whole; and**
-
-(4) **the effect of the use upon the potential market for or value of
-    the copyrighted work.**
-
-The fact that a work is unpublished shall not itself bar a finding of
-fair use if such finding is made upon consideration of all the above
-factors.
+> Notwithstanding the provisions of sections
+> [106](http://www.law.cornell.edu/uscode/text/17/106) and
+> [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use
+> of a copyrighted work, including such use by reproduction in copies or
+> phonorecords or by any other means specified by that section, for
+> purposes such as criticism, comment, news reporting, teaching
+> (including multiple copies for classroom use), scholarship, or
+> research, is not an infringement of copyright. In determining whether
+> the use made of a work in any particular case is a fair use the
+> factors to be considered shall include---
 >
-\-\--
+> (1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
+> 
+> (2) **the nature of the copyrighted work;**
+> 
+> (3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
+> 
+> (4) **the effect of the use upon the potential market for or value of the copyrighted work.**
+
+---
 
 The following are the best and most succinct informal criteria for fair
 use I've heard:
@@ -688,11 +658,16 @@ Ruling as
 Definitive](http://lj.libraryjournal.com/2012/06/shows-events/ala/fair-use-panel-cautions-against-adopting-georgia-state-ruling-as-definitive-ala-annual-2012/)",
 *Library Journal*, June 26, 2012.
 
-**Read more:**  
-Copyright: Fair Use: <http://www.copyright.gov/fls/fl102.html>
+**Read more:**
 
-Measuring Fair Use: The Four Factors\
+Copyright: Fair Use: <https://www.copyright.gov/fair-use/>
+
+Measuring Fair Use: The Four Factors:
 <http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter9/9-b.html>
+
+Fair Use Checklist:
+<https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html>
+
 
 ## Pratt School of Information
 
