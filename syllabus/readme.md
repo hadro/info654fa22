@@ -6,12 +6,13 @@
 **Location**: Remote Zoom Room (see email from me for link + passcode)
 [If zoom overall is having issues, I'll email you a link to a backup/alternative meeting plan]
 
-Instructor:
+**Instructor:**
+
 - Josh Hadro (please call me "Josh", pronouns are he/him/his)
   - josh.hadro at gmail dot com
   - \(917) 428-4152
 
-Office Hours: by appointment
+**Office Hours:** Before class, and by appointment as needed
 
 **Tech Tutor(s) for Fall 2021:**  
 Email: <techtuto@pratt.edu>
@@ -120,7 +121,7 @@ office or see above.
 
 In class: We will meet each other, learn about the class, and set up WordPress blog profiles!
 
-Readings with an \* can sometimes be behind a paywall. A copy has been saved in the `/readings` folder.
+Readings with an \* can sometimes be behind a paywall. A copy has been saved in the `/readings` folder in the github repository.
 
 A list of slides will become available [here](../slides/index.html).
 
@@ -152,9 +153,11 @@ Readings:
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
 Optional, web history:
+
 - 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)
 
 Technical resources:
+
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
@@ -168,12 +171,14 @@ Readings:
 - 2019-10-11. Rachel Andrews. [The W3C at Twenty-Five](https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/) (12 min)
 
 Technical resources:
+
 - [CSS Basics](http://www.cssbasics.com/)
 - Current. Mozilla. [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - Current. Mozilla. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
 - [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
 
 Bonus:
+
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
@@ -190,6 +195,7 @@ Readings:
 - 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) (20 min, plus playtime)
 
 Resources:
+
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
@@ -209,6 +215,7 @@ Readings:
 - c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main) (20 min)
 
 Resources:
+
 - [usability.gov](https://www.usability.gov/)
 - http://www.libsuccess.org/Website_Design#Accessibility
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
@@ -237,7 +244,7 @@ Readings:
 
 - 2015-02-05. Dorothea Salo. [MARC, Linked Data, and Human-Computer Asymmetry](https://dsalo.info/marc-linked-data-and-human-computer-asymmetry/) (7min)
 - 2015-02-19. Matthew Hughes. [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
-- October 2015. Philip Guo.[REST Web APIs: A Super-Simple Tutorial](https://web.archive.org/web/20200318020333/http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
+- October 2015. Philip Guo. [REST Web APIs: A Super-Simple Tutorial](https://web.archive.org/web/20200318020333/http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
 - 2012-06-16. Manu Sporny. [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
 - 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
@@ -256,6 +263,7 @@ Readings:
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) (Read through "How The Current System Works" pg 37-57) (12 min)
 
 Resources:
+
 - Current. University of Minnesota. [Copyright Basics](https://www.lib.umn.edu/copyright/basics)
 - [Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf)
 - [American Alliance of Museums: Ethics, Standards, and Professional
@@ -280,6 +288,7 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 - 2018-04. Data Privacy Project. [A zine about privacy at the library](https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf) [PDF]
 
 Resources:
+
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
 ### November 10 --- Blank Technology Canvas Pitch Presentations Feedback
@@ -302,6 +311,7 @@ Readings:
 - 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html) (34 min)
 
 References:
+
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
@@ -326,6 +336,7 @@ Readings:
 
 Extra reading (useful to try in conjunction with reading directly
 above):  
+
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### December 15 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
@@ -375,13 +386,15 @@ provided below with some regularity.
 
 **Email lists and Newsletters:**
 
+
+- Humane Ingenuity (Dan Cohen, Northeastern University Library): <https://buttondown.email/dancohen>
+- Soulful Computing by David Nuñez, MIT Museum: <https://buttondown.email/davidnunez/>
+- "Dig It!", a newsletter featuring digital trends and practices from museums & cultural institutions. <https://embracedigital.substack.com/p/coming-soon>
 - Center for the Future of Libraries: <http://www.ala.org/transforminglibraries/future>
 - Code4lib: <https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB>
 - Current Cites: <http://currentcites.org/>
 - Above the Fold from OCLC: <http://www.oclc.org/research/publications/newsletters/abovethefold.html>
-- Humane Ingenuity (Dan Cohen, Northeastern University Library): <https://buttondown.email/dancohen>
-- Soulful Computing by David Nuñez, MIT Museum: <https://buttondown.email/davidnunez/>
-- "Dig It!", a newsletter featuring digital trends and practices from museums & cultural institutions. <https://embracedigital.substack.com/p/coming-soon>
+
 
 **Also recommended more general publications:**
 
@@ -539,21 +552,14 @@ your portfolio.
 Attendance in class is the most valuable way to learn both from the instructor and from your peers. Of course, absences are at times unavoidable. A student who must be absent from a class meeting still has certain responsibilities:
 
 -   To inform the instructor in advance, or if advance notice is not possible given the circumstances, as soon after the absence as possible to arrange for delivery to the instructor of any assignment due at the class meeting.
-
 -   To obtain notes, handouts, etc. from a classmate (in anticipation of
     this need, each student is advised to exchange contact information
     with one or two others in the class).
-
 -   Unexcused absences will necessarily result in diminished participation grade.
-
 -   Active participation includes, but is not limited to the following:
-
     -   Being involved in class discussions, whether via voice or via chat or other class mechanism or technology.
-
     -   Asking relevant questions, debating, or challenging points.
-
     -   Suggesting new ways of looking at things.
-
     -   Volunteering to take notes, organizing activities and helping
         other students.
 
