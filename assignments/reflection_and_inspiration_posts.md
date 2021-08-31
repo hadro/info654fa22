@@ -1,29 +1,27 @@
-# Information Technologies
-# INFO 654-04
-# Fall 2021
-
-**Reflection Posts (25% of total grade)**
-
-**And**
+# Information Technologies, INFO 654-04, Fall 2021
 
 **Technology and Service Inspiration Posts (10% of total grade)**
 
-**Blog URL:** <https://commons.pratt.edu/prattsi654fa20/>
+**And**
+
+**Reflection Posts (25% of total grade)**
+
+**Blog URL:** <https://lis654fa21.wordpress.com/>
 
 Due Dates:
 -----------
 
 **Technology & Service Inspiration Posts**
 
-- September 02
-- September 23
-- October 28
+- September 08
+- September 29
+- November 03
 
 **Reflection Posts**
 
-- September 09
-- September 30
-- November 18
+- September 15
+- October 06
+- November 17
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of
@@ -52,7 +50,7 @@ Technology & Service Inspiration Posts
 
 Students will contribute at least three short posts to the class blog
 over the course of the semester. See the syllabus and class blog for a
-non-exhaustive list of potential sources.
+non-exhaustive list of potential sources for fodder.
 
 These are meant to be brief annotated citations of services. Students
 should search professional literature sources as well as news sources
@@ -70,31 +68,20 @@ visualization applications, etc.
 
 -   150-word minimum (original post content; not including excerpt or
     citation, etc.)
-
 -   Published to class blog by the time class starts on the due date
-
     -   With descriptive title
-
     -   Categorizes appropriately, e.g., Technology & Service
         Inspiration Post 1, Technology & Service Inspiration Post 2,
         etc.
-
     -   Tagged with relevant keywords
-
     -   Use only the "standard" post format option
-
 -   Excerpt or embed of source material
-
     -   Includes citations of any source material, with links embedded
         if possible
-
 -   Brief comment about why the cited example is of interest, and how it
-    is being or could be deployed in a library or archive context
-
+    is being or could be deployed in an information profession context
     -   Addresses, briefly, at least the following questions:
-
         -   What is new and/or noteworthy here?
-
         -   Why should people in the information fields be paying
             attention to this particular development?
 
@@ -102,9 +89,7 @@ visualization applications, etc.
 =====================
 
 Students will contribute at least three significant posts to the class
-blog over the course of the semester. See below for initial topic
-suggestions, and see the syllabus and class blog for a non-exhaustive
-list of potential sources.
+blog over the course of the semester. Ask in class or outside of class if you need initial topic suggestions, and see the syllabus and class blog for a non-exhaustive list of potential sources.
 
 The posts should be a minimum of 700 words in length, and must include:
 an excerpted portion (**not** to be included in the word count) or embed
@@ -112,47 +97,32 @@ an excerpted portion (**not** to be included in the word count) or embed
 source; a brief summary or explanation of the material with comment on
 how the material was discovered; and the student\'s reflection, drawing
 connections and parallels to material covered in class and/or ongoing
-concerns to the library and archives communities.
+concerns to the various information profession communities.
 
 **Reflection Posts Requirements**
 
 -   700-word minimum (original post content; not including excerpt or
     citation, etc.)
-
 -   Published to class blog by the time class starts on the due date
-
     -   With descriptive title
-
     -   Categorizes appropriately, e.g., Reflection Post 1, Reflection
         Post 2, etc.
-
     -   Tagged with relevant keywords
-
     -   Use only the "standard" post format option
-
 -   Excerpt or embed of source material
-
     -   Includes citations of any source material, with links embedded
         links if possible
-
 -   Brief summary or explanatory remarks about source material
-
 -   Reflection on material in context of class topics and larger
     information professions discussions
-
     -   Addresses at least the following questions:
-
         -   How are the sources under consideration in the post deeply
             relevant to the information science profession?
-
         -   How does this tie to larger technology trends or
             implications?
-
         -   Why should people in information fields be paying attention
             to this particular development?
-
--   Two concluding questions that prompt further consideration of the
-    topic
+-   **At least two** concluding questions that prompt further consideration of the topic
 
 **Note on writing style/tone:**
 
@@ -223,11 +193,12 @@ Ruling as
 Definitive](http://lj.libraryjournal.com/2012/06/shows-events/ala/fair-use-panel-cautions-against-adopting-georgia-state-ruling-as-definitive-ala-annual-2012/)",
 *Library Journal*, June 26, 2012.
 
-**Read more:\
-Copyright: Fair Use: <http://www.copyright.gov/fls/fl102.html> **
+**Read more:**
+
+Copyright: Fair Use: <https://www.copyright.gov/fair-use/>
 
 Measuring Fair Use: The Four Factors:
 <http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter9/9-b.html>
 
 Fair Use Checklist:
-<http://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/>
+<https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html>
