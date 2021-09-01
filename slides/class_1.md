@@ -68,6 +68,7 @@ How I generally structure class (`Meta-structure!`):
 - Assignments
 - Break!
 - News of the Week(?)
+- Slack invites
 - WordPress blog
   - Categories! Important!
 
@@ -75,13 +76,12 @@ How I generally structure class (`Meta-structure!`):
 
 
 ---
-class: center, middle
 
 ## How this semester will work  
 
+A lot like last fall...
 
 --
-
 
 # ` ¯\_(ツ)_/¯  `
 
@@ -92,7 +92,7 @@ class: center, middle
 
 --
 
-## But we do have a plan
+## And we do have a plan
 
 ---
 
@@ -136,19 +136,7 @@ Introduce yourselves to us and each other!
 ---
 class: center, middle
 
-## We'll go first
-
----
-
-class: center, middle
-
-![NYPL Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/bc0b1b4e2e8db4cfd3d7bf3cad27fca1)
-
----
-
-class: center, middle
-
-![NYPL Cool Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/b906b76b7a430b4fb53afa2b1dab21f5)
+## I will go first
 
 ---
 class: center, middle
@@ -160,10 +148,31 @@ class: center, middle
 ---
 class: center, middle
 
-### Ashley
-![Ashley](img/ashley-cyber.jpg "Ashley bio photo")
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Library_Journal_Logo.svg/2560px-Library_Journal_Logo.svg.png" style="width: 300px"/>
 
-["How did I get here?"](https://ashleyblewer.com/how-did-i-get-here.html)
+
+---
+class: center, middle
+
+![NYPL Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/bc0b1b4e2e8db4cfd3d7bf3cad27fca1)
+
+
+---
+class: center, middle
+
+![NYPL Cool Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/b906b76b7a430b4fb53afa2b1dab21f5)
+
+
+---
+class: center, middle
+
+![IIIF Logo](https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png)
+
+---
+
+![](./img/cropped-a-photo-realistic-and-beautiful-painting-of-iiif-and-also-dinosaurs-by-james-gurney_5000-1-1.png)
+
+
 
 
 ---
@@ -228,6 +237,8 @@ Before we get to the next in-class exercise...
 
 # What questions do you have so far?
 
+Questions about the first assignments?
+
 ---
 class: center, middle
 
@@ -239,12 +250,17 @@ class: center, middle
 
 1. Accept Slack invitation
 2. Log into Slack
-3. Send a message to the #general channel that includes your favorite emoji 🎉
+3. Send a message to the #654-04-fall-2021 channel that includes your favorite emoji 🎉
 
 [https://prattischool.slack.com/archives/C02CSAWEVQV](https://prattischool.slack.com/archives/C02CSAWEVQV)
 
 ---
 ## In-class exercise 2
+
+### WordPress
+
+
+--
 
 1. Accept WordPress invitation
   - Confirm you have access to posting, since this is where some assignments are due
@@ -258,14 +274,14 @@ class: center, middle
 
 
 Make sure you have access to these two pages:
-- <https://commons.pratt.edu/prattsi654fa20/wp-admin/>
-- <https://commons.pratt.edu/prattsi654fa20/wp-admin/post-new.php>
+- <https://lis654fa21.wordpress.com/wp-admin/>
+- <https://wordpress.com/post/lis654fa21.wordpress.com>
 
 --
 
 ## 2. Fill out form on homepage of class WordPress sites
 
-<https://commons.pratt.edu/prattsi654fa20/>
+<https://lis654fa21.wordpress.com/>
 
 
 ---
@@ -276,4 +292,4 @@ See you next week!
 
 <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F26%2F84%2F03%2F268403b9bd2d42133be4fd929de98116.jpg&f=1&nofb=1' style="width:50%" />
 
-And of course, let us know if you have any questions in the meantime -- our emails are in the syllabus
+And of course, let me know if you have any questions in the meantime -- my email is in the syllabus
