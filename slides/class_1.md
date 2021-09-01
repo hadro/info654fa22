@@ -67,7 +67,6 @@ How I generally structure class (`Meta-structure!`):
   - Course Philosophy
 - Assignments
 - Break!
-- News of the Week(?)
 - Slack invites
 - WordPress blog
   - Categories! Important!
