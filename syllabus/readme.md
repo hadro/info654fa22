@@ -150,11 +150,13 @@ Readings:
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/) (8min)
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/) (16min)
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
-- [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
+- [The Evolution of the Web](https://web.archive.org/web/20210227000056/http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
 Optional, web history:
 
-- 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)
+\* - 2021-06-30. Jonathan Zittrain. [The Internet Is Rotting](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)  
+\* - 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)  
+- 2021-08-26. Elise Blanchard. [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
 Technical resources:
 
@@ -182,13 +184,14 @@ Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### September 29 --- [File Formats and Web Design Wrap-up](../slides/class_5.html)
+### September 29 --- [Digitization, File Formats and Web Design Wrap-up](../slides/class_5.html)
 
 **Due: Technology and Service Inspiration Post 2**
 
 Readings:
 
 - \* 2015-01-26. Jill Lepore. [The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
+- 2021-06-22. Dorothy Berry. [The House Archives Built](https://www.uproot.space/features/the-house-archives-built) (15 min)
 - 2018-07-31. Emma Stanford (Bodleian Libraries). [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
 - 2019-02-06. Allison Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/) ([alt link](https://web.archive.org/web/20190628062616/https://sidbala.com/h-264-is-magic/))
@@ -214,13 +217,18 @@ Readings:
 - 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31) (7 min)
 - c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main) (20 min)
 
+Fun:
+
+- 2017-06-04. Fabricio Teixeira. [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950) 
+
 Resources:
 
 - [usability.gov](https://www.usability.gov/)
-- http://www.libsuccess.org/Website_Design#Accessibility
+- [http://www.libsuccess.org/Website_Design#Accessibility](http://www.libsuccess.org/Website_Design#Accessibility)
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
 - [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
+
 
 ### October 13 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
 
@@ -244,7 +252,7 @@ Readings:
 
 - 2015-02-05. Dorothea Salo. [MARC, Linked Data, and Human-Computer Asymmetry](https://dsalo.info/marc-linked-data-and-human-computer-asymmetry/) (7min)
 - 2015-02-19. Matthew Hughes. [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
-- October 2015. Philip Guo. [REST Web APIs: A Super-Simple Tutorial](https://web.archive.org/web/20200318020333/http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
+- 2020-12-13 Raivat Shah. [Introduction to REST APIs: Get started with RESTful APIs using a real-world example](https://towardsdatascience.com/introduction-to-rest-apis-90b5d9676004) (5 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
 - 2012-06-16. Manu Sporny. [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
 - 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
@@ -264,7 +272,7 @@ Readings:
 
 Resources:
 
-- Current. University of Minnesota. [Copyright Basics](https://www.lib.umn.edu/copyright/basics)
+- Current. University of Minnesota. [Copyright Basics](https://www.lib.umn.edu/services/copyright/basics)
 - [Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf)
 - [American Alliance of Museums: Ethics, Standards, and Professional
 Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-practices/ethics/)
@@ -289,6 +297,7 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 
 Resources:
 
+- 2020-09-22. Surya Mattu. [Blacklight: A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight) 
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
 ### November 10 --- Blank Technology Canvas Pitch Presentations Feedback
