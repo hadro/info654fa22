@@ -170,10 +170,12 @@ class: center, middle
 
 ---
 
-![](./img/cropped-a-photo-realistic-and-beautiful-painting-of-iiif-and-also-dinosaurs-by-james-gurney_5000-1-1.png)
+![IIIF + Dinosaurs](./img/cropped-a-photo-realistic-and-beautiful-painting-of-iiif-and-also-dinosaurs-by-james-gurney_5000-1-1.png)
 
-
-
+---
+class: center, middle
+<!-- ![Rhea](./img/IMG_4496.jpeg) -->
+<img src="./img/IMG_4496.jpeg" style="width: 65%;" alt="Rhea" />
 
 ---
 class: center, middle
@@ -299,6 +301,6 @@ Make sure you have access to these two pages:
 
 See you next week!
 
-<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F26%2F84%2F03%2F268403b9bd2d42133be4fd929de98116.jpg&f=1&nofb=1' style="width:50%" />
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F26%2F84%2F03%2F268403b9bd2d42133be4fd929de98116.jpg&f=1&nofb=1' style="width:50%" alt="ttfn" />
 
 And of course, let me know if you have any questions in the meantime -- my email is in the syllabus
