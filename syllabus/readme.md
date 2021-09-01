@@ -115,6 +115,16 @@ the SI office and is available 20 hours a week either by walk-in or
 appointment. For information on hours of operation, contact the SI
 office or see above.
 
+## Information Technologies Course Waiver
+
+Students with significant incoming technology experience may apply to waive taking LIS/INFO 654 Information Technologies.  First, you should review the syllabus to assess your existing familiarity with the topics covered. Then, if you wish to apply to waive the course, send the following to si@pratt.edu for review:
+
+- A few sentences describing your past/current technology work and why you would like to waive the course
+- Your resume
+- A portfolio (or other demonstration of your work), if you have one
+
+If you are approved for the course waiver, you will be notified within one week and a letter to that effect will be added to your file. 
+
 ## Class Schedule
 
 ### September 01 --- [Introduction and Information Technology Basics](../slides/class_1.html)

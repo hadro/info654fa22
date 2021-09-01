@@ -182,6 +182,15 @@ class: center, middle
 
 ---
 
+# But first...
+
+## Information Technologies Course Waiver
+
+--
+Give this some thought, and make the most of your time+$ at Pratt!
+
+---
+
 # Syllabus
 
 The canonical version of the syllabus lives in our class Github repository:
