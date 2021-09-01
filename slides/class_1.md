@@ -178,6 +178,18 @@ class: center, middle
 <img src="./img/IMG_4496.jpeg" style="width: 65%;" alt="Rhea" />
 
 ---
+
+## Your Turn
+
+### Very briefly: 
+
+- What you've taken at Pratt so far, if anything
+- what brought you to Pratt Info school
+- day job or relevant experience (if any; ok if not!)
+- any specific interests you might have for this course
+
+
+---
 class: center, middle
 
 # Syllabus
