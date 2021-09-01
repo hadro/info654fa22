@@ -60,7 +60,7 @@ How I generally structure class (`Meta-structure!`):
 ## TODAY’s AGENDA
 - Meta-agenda (mind blown!)
 - Intro
-- Instructors
+- Instructor
   - Who I am
 - Who you are
 - Syllabus
