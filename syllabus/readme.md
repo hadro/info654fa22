@@ -309,6 +309,7 @@ Resources:
 
 - 2020-09-22. Surya Mattu. [Blacklight: A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight) 
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
+- [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
 ### November 10 --- Blank Technology Canvas Pitch Presentations Feedback
 
