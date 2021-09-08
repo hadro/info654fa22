@@ -109,6 +109,8 @@ A network is two or more devices that are connected together, and are able to co
 
 # What is the Internet?
 
+--
+
 > "Internet" refers to the global information system that -- (i) is logically linked together by a globally unique address space based on the Internet Protocol (IP) or its subsequent extensions/follow-ons; (ii) is able to support communications using the Transmission Control Protocol/Internet Protocol (TCP/IP) suite or its subsequent extensions/follow-ons, and/or other IP-compatible protocols; and (iii) provides, uses or makes accessible, either publicly or privately, high level services layered on the communications and related infrastructure described herein
 
 ---
@@ -191,13 +193,6 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Link layer (sends packets between IP and hosts)
 
 ---
-# HTTP, FTP, SMTP
-
-These are all internet protocols that work at the application level to help you access websites (HTTP), send files (FTP) and send email (SMTP) over the network.  
-
-![](./img/computer_e-mail.gif) ![](./img/computer_e-mail.gif) ![](./img/computer_e-mail.gif)
-
----
 # HTTPS?
 
 HTTPS is a protocol developed on top of HTTP that takes extra steps to ensure security, privacy, and integrity of the communication channel between you and the website.  
@@ -207,20 +202,13 @@ HTTPS is a protocol developed on top of HTTP that takes extra steps to ensure se
 Why is this such a big deal?
 
 ---
-# Activity: 🐠 Test your network 🦈
+# WireShark (We'll come back to this at the end)
 
 Use [WireShark](https://www.wireshark.org/) to understand your surroundings.
 
 What is WireShark?  
 
 > "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions." [source: website](https://www.wireshark.org/)
-
----
-# Wireshark non-live demo
-
-[HakTip - How to Capture Packets with Wireshark - Getting Started](https://www.youtube.com/watch?v=6X5TwvGXHP0)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X5TwvGXHP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -454,6 +442,26 @@ Not everything has to be super technical, there is a very large and chaotic "peo
 # Network Inspection (Chrome/Firefox tool)
 
 Press option+command+I (on a Mac or PC, in Chrome or in Firefox)
+
+Or right-click, and select "inspect" from the context menu, then click on the "Network" tab with the up/down arrow icon
+
+
+---
+# Activity for at-home: 🐠 Test your network 🦈
+
+Use [WireShark](https://www.wireshark.org/) to understand your surroundings.
+
+What is WireShark?  
+
+> "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions." [source: website](https://www.wireshark.org/)
+
+
+---
+# Wireshark non-live demo
+
+[HakTip - How to Capture Packets with Wireshark - Getting Started](https://www.youtube.com/watch?v=6X5TwvGXHP0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X5TwvGXHP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # Moment of zen
