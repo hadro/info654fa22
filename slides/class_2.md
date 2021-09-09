@@ -405,16 +405,6 @@ class: center, middle
 - built up of things
 
 ---
-# The internet is a real place
-
-- Data centers
-- Cables
-- Towers
-- Satellites
-- in the air around us right now
-
-
----
 # Submarine cables
 
 Large networked systems are connected to each other via undersea cables.
