@@ -35,6 +35,23 @@ Course WordPress site:   [https://lis654fa21.wordpress.com/](https://lis654fa21.
 
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
+
+---
+
+## Due Dates
+
+These are all listed in both the [`syllabus`](syllabus) and on the [`assignments`](assignments) documents, but for easy reference here are the due dates for the semester:
+
+-  September 08 --- Due: Technology and Service Inspiration Post 1
+-  September 15 --- Due: Reflection Post 1
+-  September 29 --- Due: Technology and Service Inspiration Post 2
+-  October 06 --- Due: Reflection Post 2
+-  October 20 --- Due: Personal homepage
+-  November 03 --- Due: Technology and Service Inspiration Post 3
+-  November 10 --- Due: Blank Technology Canvas Pitch Presentations
+-  November 17 --- Due: Reflection Post 3
+-  December 15 --- Due: Blank Technology Canvas Final Report Site
+
 ---
 Publishing everything in this repo as CC-BY; see [`license`](license.md)
 
