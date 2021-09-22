@@ -70,6 +70,10 @@ Something like this goes between your HTML `<head>` tags:
 
 # `<link rel="stylesheet" href="style.css">`
 
+--
+
+(<small> there's also the `<style></style>` element, which you can use nested within the `<head></head>` element, but much better to use the above method which is called referencing an external stylesheet </small>)
+
 ---
 # Applying CSS
 
@@ -81,15 +85,21 @@ Something like this goes between your HTML `<head>` tags:
 # Basic syntax (in CSS)
 
 ```css
+/* Using an element name as a selector */
+
 h1 {
 	color: red;
 }
 
-.red {
+/* Using a class name as a selector */
+
+.red-header {
 	color: red;
 }
 
-#red {
+/* Using an ID name as a selector */
+
+#specific-red-header {
 	color: red;
 }
 ```
@@ -98,8 +108,16 @@ h1 {
 
 ```html
 <h1>This header</h1>
-<h1 class="red">This header</h1>
-<h1 id="red">This header</h1>
+<h1 class="red-header">This header</h1>
+<h1 id="specific-red-header">This header</h1>
+```
+---
+# Basic syntax (connecting to HTML)
+
+```html
+<h1>This header</h1> <!-- Using basic element -->
+<h1 class="red-header">This header</h1> <!-- Using class property -->
+<h1 id="specific-red-header">This header</h1> <!-- Using id property -->
 ```
 
 ---
@@ -223,7 +241,7 @@ This is not really "good practice" but it's good in an emergency
 
 There are a lot of options:
 
-- pixels (`width: 800px`)
+- pixels (`width: 700px`)
 - percentage (`width: 80%`)
 - vertical width / vertical height (`width: 10vw`)
 
@@ -332,8 +350,73 @@ Bonus:
 - Questions?
 
 ---
+
 # Breaking into groups
 
 - We are going to use the Breakout Rooms feature of Zoom to split everyone into small groups
 - Start working on your assignments and ask each other questions
 - Josh will "walk around the room", dropping into each Zoom room to answer questions and offer help
+
+---
+
+# Use an online code editor
+
+- [Glitch](https://glitch.com/edit/#!/chrome-fantastic-blue?path=style.css%3A1%3A0) (Click "Remix to Edit")
+- [Repl.it](https://replit.com/@hadro/654-04-fall-2021#index.html) (Click "Fork" to edit, though you'll have to create an account)
+- [codepen.io](https://codepen.io/pen/) (Copy the HTML from one of the examples above to paste into this option)
+
+---
+
+# HTML
+
+Try the following (or explore on your own):
+
+- Within the HTML, change the title of the page to read: “My HTML and CSS Lab Assignment”
+- Change the `<h3>` element on the page to be an `<h1>` element
+- Add a `<div>` element around the “beeker.jpg” image
+- Add a number of anchor tag links to your favorite sites, and make sure these links work
+- Put a `<p>` text element inside of an `<aside>` html element somewhere on the page
+- From there, try adding other HTML elements, and make they are nested properly and render as you expect them to
+
+---
+
+# CSS
+
+Try the following (or explore on your own):
+
+- Assign an ID to the div that contains the beeker image (in the html)
+- Assign a class selector to both the second and third paragraphs of text (use the same class selector for both) (in the html)
+- Make the H1 text orange (in css)
+- Make the image float to the right (use the “float:” property; see general reference here: http://www.w3schools.com/cssref/) (in css)
+- Give a gray background to the second and third paragraphs of text using the class selector (use either English word “grey” as a value, or choose from here: http://www.color-hex.com/) (in css)
+- Add some margin and/or padding to the div and the paragraphs (in css)
+- Add a sidebar div with text in it, floating left, with gray background (both html and css)
+
+---
+
+# Images:
+
+- Add another image further down on the page
+- Using CSS size properties on ID attributes, set the image to no more than 200px in height or 200px in width, whichever is the longer of the two dimensions (see dimension properties here: http://www.w3schools.com/css/css_dimension.asp)
+- Using CSS ID attributes, make the images float on either side of the page to allow text to wrap around them (use the “float:” property mentioned above)
+
+
+---
+
+# More advanced next steps:
+
+- Create a second page using the same template, and link the two pages together
+- Add a link back to the index.html page on the subsequent page you created
+- Use an unordered list to create a basic navigation for your pair of pages (see here: http://www.w3schools.com/html/html_lists.asp)
+- Add a properly formatted table to one of the two pages, see here: http://www.w3schools.com/html/html_tables.asp
+
+
+---
+
+# Validation!
+
+Validate your code!
+
+- See if you code validates according to W3C specifications: http://validator.w3.org/
+- If not, use the hints there and/or in Glitch to correct any identified errors
+
