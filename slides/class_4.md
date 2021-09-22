@@ -11,9 +11,8 @@ class: center, middle
 - Questions from last week?
 - News of the Week
 - Readings
-- Break!
 - Introducing CSS
-- BREAK!
+- Break!
 - Introduction of Website Assignment
 - LAB - working in groups
 
@@ -33,11 +32,11 @@ Drop a link on the etherpad:
 - [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - Everything else
 
----
+<!-- ---
 # BREAK
 
 .center[![](img/compacdisc.gif)]
-
+ -->
 ---
 # Cascading
 # Style
@@ -60,9 +59,9 @@ Drop a link on the etherpad:
 ---
 # HTML is for structure, CSS is for design
 
-- (demo on page)
+One example: same content, any number of CSS style sheets:
 - [CSS Zen Garden](http://www.csszengarden.com/)
-- alternatively, [ashleyblewer.com](https://ashleyblewer.com)
+
 
 ---
 # How to put CSS on the page
@@ -79,7 +78,7 @@ Something like this goes between your HTML `<head>` tags:
 - HTML elements with a specific *ID* attribute
 
 ---
-# Basic syntax
+# Basic syntax (in CSS)
 
 ```css
 h1 {
@@ -95,7 +94,7 @@ h1 {
 }
 ```
 ---
-# Basic syntax
+# Basic syntax (connecting to HTML)
 
 ```html
 <h1>This header</h1>
@@ -126,7 +125,9 @@ h1 {
 ```css
 h1 {
 	color: red;
-	font-weight: bold;
+	background-color: yellow;
+	border:  2px solid;
+	text-align: center;
 }
 ```
 
@@ -154,7 +155,7 @@ h1 {
 ```
 
 ---
-# Children selectors
+# Getting more complex: Children selectors
 
 ```css
 #red > p {
@@ -173,7 +174,7 @@ h1 ~ p {
 }
 ```
 
-(The paragraph tag that are at the same nested level as the h1 tag, and no others)
+(The paragraph tags that are at the same nested level as the h1 tag, and no others)
 
 ---
 # Adjacent selectors
@@ -185,30 +186,6 @@ h1 + p {
 ```
 
 (The paragraph tag that comes right after the h1 tag, and no others)
-
----
-# HTML attributes with a certain value
-
-```css
-input[type=text] {
-	border: 1px solid red;
-}
-```
-
-(HTML forms that are text will have a red border)
-
----
-# pseudo-elements
-
-- h1::before
-- h1::after
-
----
-# psuedo-classes
-
-- :checked
-- :focus
-- and more...
 
 ---
 # `!important`
@@ -235,26 +212,11 @@ This is not really "good practice" but it's good in an emergency
 ---
 # Changing text
 
-- `font-family` (serif, san serif, or names -- see next slide)
+- `font-family` (serif, san serif, or names of fonts)
 - `font-size` (make big or small -- see a few slides from now)
 - `font-weight` (boldness or lack of)
 - `font-style` (italic or lack of)
 - `text-transform` (uppercase, lowercase, capitalize)
-
----
-# Changing fonts
-
-- Fonts are special; they are loaded from your computer
-- Computers don't always have the same fonts
-- Let's look at ["web-safe fonts"](https://www.cssfontstack.com/) 
-- Fonts can also be embedded, using something like [Google fonts](https://fonts.google.com/)
-
----
-# Changing fonts
-
-- Here's how to do it: `h1 {font-family: "Open Sans", Verdana, sans serif;}`
-- Note that you can "stack" fonts in this way
-- The first is a two-word font name, the second is a font name on many computers, and the last is a general font style
 
 ---
 # Sizing things
@@ -262,9 +224,8 @@ This is not really "good practice" but it's good in an emergency
 There are a lot of options:
 
 - pixels (`width: 800px`)
-- frames (`width: 1fr`)
-- vertical width / vertical height (`width: 10vw`)
 - percentage (`width: 80%`)
+- vertical width / vertical height (`width: 10vw`)
 
 ---
 # Sizing text
@@ -282,7 +243,8 @@ There are a lot of options:
 - border (add space around padding)
 - margin (add space around border)
 
-<div style="padding:40px;border: 20px solid black; margin:40px;">Box example</div>
+<div style='background-color: green;'>
+<div style="padding:40px;border: 10px solid black; margin:40px; background-color: salmon;">Box example</div>
 
 ---
 # Lets talk about color
@@ -291,6 +253,9 @@ There are a lot of options:
 - Here's a list of the 140 named colors: [htmlcolorcodes.com](https://htmlcolorcodes.com/color-names/)
 - "color" means changing the attribute's foreground color (e.g. text, border)
 - `background-color` will change the color of the box area
+
+(Bonus: [A W3C CSS Working Group thread](https://github.com/w3c/csswg-drafts/issues/5284) on renaming certain colors related to historical connotatiosn)
+
 ---
 # Color: lots of options
 
@@ -306,13 +271,13 @@ You can also add transparency to RGB or HSL values:
 - `hsla(0,100,50, 0.5)`
 
 ---
-# Native Frameworks
+# Advanced investigation: Native Frameworks
 
 - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - native to CSS
 - [Flexbox](https://css-tricks.com/snippets/css/complete-guide-grid/) - native to CSS
 
 ---
-# Library Frameworks
+# Advanced investigation: Library Frameworks
 
 - [Bootstrap](https://getbootstrap.com/) - classicccccccc, very popular, used in a lot of places
 - [Materialize](https://materializecss.com/) - based on Google's design language
@@ -321,36 +286,23 @@ You can also add transparency to RGB or HSL values:
 - ... and so many more!
 
 ---
-# CSS for page layouts
+# Advanced investigation: CSS for page layouts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOvGeFUHAC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Fast Layouts with CSS Grid](https://www.youtube.com/watch?v=KOvGeFUHAC0)
 
 ---
-# Grid resources 
+# Advanced investigation: Grid resources 
 
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [CSS Tricks: A complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ---
-# Flexbox resources
+# Advanced investigation: Flexbox resources
 
 - [CSS Tricks: A complete guide to Flexbox](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
-
----
-# Remember CSS is always changing
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sZS-7RX_c7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- [New CSS for Styling Underlines on the Web](https://www.youtube.com/watch?v=sZS-7RX_c7g)
-
----
-# Advanced: CSS 3D, transformations and animations
-
-- [Unfolding the Box Model](https://rupl.github.io/unfold/) (Examples of appearing 3D)
-- [CSS 3D Clouds](https://www.clicktorelease.com/code/css3dclouds/)
 
 ---
 # Additional resources
