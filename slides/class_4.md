@@ -341,9 +341,7 @@ Bonus:
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
 ---
-# BREAK
 
----
 # Personal Homepage project
 
 - Assignment details [here](https://github.com/hadro/info654fa21/blob/master/assignments/personal_homepage.md)
