@@ -92,6 +92,11 @@ class: center, middle
 
   - images, video, and audio, text
   - Compacting of bits in order to streamline file size
+  
+--
+- **Lossless vs. Lossy**
+
+--
   - can see it on the web, like a bootstrap.min.js file
     + [bootstrap-alert.js](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-alert.js), vs
     + [bootstrap-alert.min.js](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-alert.min.js)
@@ -223,4 +228,17 @@ class: middle, center
 # Questions?
 
 ---
-# Breakout groups
+# Wrap-Up HTML Lab 
+
+Let's use the remaining time to do breakout groups again, and continue working on the elements in the lab from last week: 
+- Slides starting from last week here: <https://hadro.github.io/info654fa21/slides/class_4.html#40>
+
+
+- [Glitch](https://glitch.com/edit/#!/chrome-fantastic-blue?path=style.css%3A1%3A0) (Click "Remix to Edit")
+- [Repl.it](https://replit.com/@hadro/654-04-fall-2021#index.html) (Click "Fork" to edit, though you'll have to create an account)
+- [codepen.io](https://codepen.io/pen/) (Copy the HTML from one of the examples above to paste into this option)
+
+If you feel comfortable with the steps there, consider using the time to work on a general template for the pages on the Personal Homepage assigment
+
+
+
