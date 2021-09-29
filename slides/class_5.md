@@ -30,48 +30,54 @@ class: center, middle
 ## News of the Week
 
 Drop a link on the etherpad:
-<https://etherpad.wikimedia.org/p/prattsi654fa20-5>
+<https://etherpad.wikimedia.org/p/prattsi654fa21-5>
 
 ---
 
 # Readings
 
-- I have slides for these
+- We have slides for these
 - Let's step through each of them and discuss
 ---
 # Readings -- some notes
 
-- Cobweb
-  - we will talk about this topic more in future classes
-  - [bellingcat](https://www.bellingcat.com/)
+## Cobweb
   - [Internet Archive's Wayback Machine](https://web.archive.org/)
   - [perma.cc](https://perma.cc/)
   - version control
   - robots.txt
   - (Internet Archive has [changed its mind](https://blog.archive.org/2017/04/17/robots-txt-meant-for-search-engines-dont-work-well-for-web-archives/) about that)
-  - web archiving -- more next week
+
+---
+# Readings -- some notes
+
+## The House Archives Built
+- "Archives and The Archives"
+- Contrasting the "digitize everything and sort it later" mentality, very prevalent whenever Internet Archive comes up
+- Some context: ["More Product, Less Process"](https://en.wikipedia.org/wiki/More_Product,_Less_Process)
+- "the language serves the systems, not the subjects."
+- "When archives feel stymied by standards and best practices, digitization can feel liberatory."
 
 ---
 # Readings -- some notes
 
 ## Bodleian and UCLA
-  - digitization
-  - as an example: NYPL has a photo team of around 12 people
-  - [IIIF](https://iiif.io)... (Josh)
+  - Digitization seems simple, but there are tons of decisions and editorial calls made in terms of how to represent something
   - [Laurie Spiegal](https://en.wikipedia.org/wiki/Laurie_Spiegel)
   - [Part 1](https://youtu.be/TzOJtZYsGSA?t=226) - explaining digital vs analog
   - [Part 2](https://www.youtube.com/watch?v=oconRQBZff0) - "how does the computer help you save time?"
   - a lot of technical jargon: Aja, Blackmagic, XLR, TBC, etc
   - workflow diagrams!
-  - reliance on software by companies
+  - reliance on old hardware
 
 ---
 # Readings -- some notes
 
- - Let's step by step through the [h264 article](https://sidbala.com/h-264-is-magic/)
+ - [h264 really is magic!](https://sidbala.com/h-264-is-magic/)
  - and the [JPEG playground article](https://parametric.press/issue-01/unraveling-the-jpeg/) -- again with the standards!
- - Amy Wibowo comes up again -- [Glitching hour](https://www.thestrangeloop.com/2018/the-glitching-hour.html) toy
+ - For another, deeper look: Amy Wibowo -- [Glitching hour](https://www.thestrangeloop.com/2018/the-glitching-hour.html) toy
  - rgb vs YCbCr, how do our eyes work?
+   + PS this is one of the underrated, genius innovations of the 20th century
 
 
 ---
@@ -79,7 +85,6 @@ class: center, middle
 
 # Web wrap-up
 
-- JavaScript, the missing puzzle piece
 - What questions do you have about web tech?
 
 ---
@@ -88,6 +93,9 @@ class: center, middle
   - images, video, and audio, text
   - Compacting of bits in order to streamline file size
   - can see it on the web, like a bootstrap.min.js file
+    + [bootstrap-alert.js](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-alert.js), vs
+    + [bootstrap-alert.min.js](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-alert.min.js)
+    + These files contain the same information!
   - can see it when images look bad
 
 ---
@@ -98,6 +106,8 @@ class: center, middle
 # Generation loss
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYvNsiJwldg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+"What happens when you have two VCRs, two VHS cassettes, and plenty of time on your hands?"
 
 ---
 class: middle
@@ -166,7 +176,7 @@ A great resource for explaining how a file format is made, by Ross Spencer:
 
 - [PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Default.aspx) (UK National Archives)
 - [Format Descriptions](https://www.loc.gov/preservation/digital/formats/fdd/browse_list.shtml) (US Library of Congress)
-- [`file`](https://en.wikipedia.org/wiki/File_(command)) (Unix command)
+- [`file`](https://en.wikipedia.org/wiki/File_(command) (Unix command)
 - [File Formats Wiki](http://fileformats.archiveteam.org/wiki/Main_Page) (ArchiveTeam)
 
 ---
@@ -187,14 +197,14 @@ A great resource for explaining how a file format is made, by Ross Spencer:
 # Images, cont
 
 ## SVG
-- XML for images (like we saw on the nytimes homepage)
+- XML for images
 - this is vector-based instead of pixel-based
 - Illustrator instead of Photoshop 
 - we can view source on this https://www.w3.org/html/logo/downloads/HTML5_Logo.svg
 - raster vs vector https://upload.wikimedia.org/wikipedia/commons/6/6b/Bitmap_VS_SVG.svg
 
 ## Other formats...
-- BMP, TIFF, JPEG2000, RAW
+- Webp, BMP, TIFF, JPEG2000, RAW
 
 ---
 
