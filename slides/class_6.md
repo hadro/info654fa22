@@ -47,13 +47,19 @@ And that's a huge part of why UX and accessibility are so tightly connected to t
 ---
 ## Some definitions 
 
-**Usability:** “ease of use and learnability of a human-made object”, in other words, intuitiveness, familiarity, etc.  
+**Usability:** 
+--
+“ease of use and learnability of a human-made object”, in other words, intuitiveness, familiarity, etc.  
   
 --
-**User Experience:** “concept that places the end-user at the focal point of design and development efforts, as opposed to the system, its applications or its aesthetic value alone. It's based on the general concept of user-centered design.”  
+**User Experience:** 
+--
+“concept that places the end-user at the focal point of design and development efforts, as opposed to the system, its applications or its aesthetic value alone. It's based on the general concept of user-centered design.”  
 
 --
-**Web Accessibility:** “Web accessibility means that the Web is designed so that people with disabilities can perceive, understand, navigate, and interact with it effectively, as well as create and contribute content to the Web.”
+**Web Accessibility:** 
+--
+“Web accessibility means that the Web is designed so that people with disabilities can perceive, understand, navigate, and interact with it effectively, as well as create and contribute content to the Web.”
 
 ---
 
