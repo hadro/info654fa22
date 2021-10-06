@@ -14,6 +14,7 @@ class: center, middle
 - Roots of UX and information professions
 - Accessibility
 - Break!
+- User Research
 - Universal Design
 
 
@@ -111,6 +112,16 @@ class: middle, center
 # Break!
 
 ---
+# User research methods (among others)
+
+- Surveys
+- Focus groups 
+- Interviews
+- Web analytics
+- Field studies
+
+
+---
 # Personas
 
 A fictional representation of a user, particularly one who embodies essential traits and behaviors reflected in real user populations.  
@@ -135,15 +146,7 @@ Examples:
 Let's look at [this slidedeck](https://training.ashleyblewer.com/presentations/universal-design.html#1)
 
 ---
-# Let's talk about accessibility
+# Other related things worth exploring:
 
-- Universal Design practices should give some context into web accessibility
-- More than just vision impairment
-- What are ways to do accessibility testing?
-- "Just tabbing"
-- [WAVE](https://wave.webaim.org/)
-
----
-# Other things
-
-Time allowing, we can cover [writing for technology](https://training.ashleyblewer.com/presentations/technical-writing.html#1) or [web archiving](https://training.ashleyblewer.com/presentations/web-archiving.html#1)
+- [writing for technology](https://training.ashleyblewer.com/presentations/technical-writing.html#1) 
+- [web archiving](https://training.ashleyblewer.com/presentations/web-archiving.html#1)
