@@ -32,6 +32,13 @@ Drop a link on the etherpad:
 <https://etherpad.wikimedia.org/p/prattsi654fa21-6>
 
 ---
+class: middle, center
+
+# Break!
+
+---
+
+
 
 Where are we starting today?  
 
@@ -111,11 +118,6 @@ What does "comparable" mean in this legislation?
 
 Give this a try with your favorite website, and see if it passes accessibility validation. 
 
-
----
-class: middle, center
-
-# Break!
 
 ---
 # User research methods (among others)
