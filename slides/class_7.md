@@ -543,7 +543,7 @@ Option 2 Senator modeling example: `XML`
 }
 ```
 ---
-Most compact version of the same data: 
+For comparison, most compact/compressed version of the same data: 
 ```json
 {"senators":[{"senator":{"lis_member_id":"S386","name":{"first":"Tammy","last":
 "Duckworth","suffix":null},"party":"D","state":"IL","homeTown":"Hoffman Estates"
