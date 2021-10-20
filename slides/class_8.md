@@ -23,6 +23,14 @@ class: middle, center
 
 ## Questions?
 
+---
+
+# Blank Technology Canvas Assignment
+
+Two components:
+
+- [Pitch presentation](https://hadro.github.io/info654fa21/assignments/blank_technology_presentation.html) (short, 5-7 minutes, due November 10)
+- [Final narrative report](https://hadro.github.io/info654fa21/assignments/blank_technology_canvas_report.html) (a few components, to be turned in as a website, due December 15)
 
 ---
 
