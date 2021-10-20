@@ -162,7 +162,9 @@ What are the various reasons for this?
 
 Try the following:
 - change "size" to `pct:10` [this means 10% of the original size]
+- change "Region" to `full`
 - change "Region" to `square`
+- Now, refresh the page
 - change the third number in "Region" from `799` to `1400`, so the whole string reads `1015,1460,1400,824`
 - change "size" to `600,` [don't forget the comma after the 600]
 - Now copy the `Requested image url:` just above the image, and paste it into a new tab
@@ -210,8 +212,8 @@ Sir Tim Berners Lee, from earlier in this semester:
 <https://5stardata.info/en/>
 
 1. Open License
-2. Readable data
-3. open format
+2. Structured data
+3. Open format
 4. Use URIs
 5. Get useful data back!
 
@@ -232,6 +234,22 @@ Sir Tim Berners Lee, from earlier in this semester:
 Often called TRIPLES
 
 **SUBJECT, OBJECT, PREDICATE**
+
+--
+
+Josh, IIIF, is employee of  
+Josh, Rhea, is the parent of  
+Josh, Andrew, is the sibling of  
+
+--
+
+IIIF, Josh, is employer of  
+Rhea, Josh, is the child of  
+Andrew, Josh, is the sibling of 
+
+--
+
+Now, to make this proper Linked Data, you must use URIs for each element of the triple.
 
 ---
 # Linked Jazz
@@ -257,6 +275,9 @@ Three entries:
 ```
 
 
+---
+# Questions
+
 
 
 ---
@@ -279,12 +300,7 @@ Follow the steps on this page:
 4. Return to the APIs page and select the Books API
 
 ---
-# Questions
-
-
-
----
-# (Bonus) Activity 2: Wordnik API
+# Activity 2: Wordnik API
 
 - [https://developer.wordnik.com/docs](https://developer.wordnik.com/docs)
 
