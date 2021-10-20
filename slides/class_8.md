@@ -9,6 +9,7 @@ class: center, middle
 # Agenda
 
 - Questions?
+- Next assignments
 - News of the Week
 - Readings
 - Break!
