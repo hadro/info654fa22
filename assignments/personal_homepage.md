@@ -107,7 +107,9 @@ Other requirements:
 
 -   At least one valid use of the html5 footer element
 
--   To turn the project in, students will send us a single link to the homepage of the linked set of pages hosted online. To do this students will need to host their code somewhere accessible to the instructor. The simplest way to do this is to use [repl.it](https://repl.it/), Glitch (<https://glitch.com/>), [Codepen](https://codepen.io/), or another similar tool. Other file hosting options are also available if students want to try self-hosting or other means.
+-   To turn the project in, students will send a single link to the homepage of the linked set of pages hosted online. To do this students will need to host their code somewhere accessible to the instructor. The simplest way to do this is to use [repl.it](https://repl.it/), Glitch (<https://glitch.com/>), [Codepen](https://codepen.io/), or another similar tool. Other file hosting options are also available if students want to try self-hosting or other means.
+
+Email a link to your assignment to josh.hadro@gmail.com
 
 **A suggestion on how to start:**
 
