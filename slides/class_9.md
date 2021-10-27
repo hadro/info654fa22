@@ -44,6 +44,15 @@ Drop a link on the etherpad:
 ---
 # Readings
 
+<ul>
+  <li>Kate Dohe. <a href="http://inthelibrarywiththeleadpipe.org/2019/digital-libraries-critical-practice-in-communities/">Care, Code, and Digital Libraries: Embracing Critical Practice in Digital Library Communities</a></li>
+  <li>Martin Tisne. <a href="https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/">It’s time for a Bill of Data Rights</a></li>
+  <li>Edward M. Corrado. <a href="http://www.istl.org/05-spring/article2.html">The Importance of Open Access, Open Source, and Open Standards for Libraries</a></li>
+  <li>Meredith Farkas. <a href="https://americanlibrariesmagazine.org/2011/09/27/open-source-open-mind/">Open Source, Open Mind</a></li>
+  <li>Christie Koehler. <a href="https://subfictional.com/open-source-licenses-and-the-ethical-use-of-software/">Open Source Licenses and the Ethical Use of Software</a></li>
+  <li><a href="https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure">Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure</a> </li>
+</ul>
+
 ---
 class: middle, center
 
@@ -240,6 +249,22 @@ An example from a real book:
 > _No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, or any information storage and retrieval system, without permission in writing from the publisher._
 
 ---
+
+# What are First Sale, and Fair Use?
+
+They are (incredibly important!) exceptions to the exclusive rights held by copyright owners.
+
+First Sale ([17 U.S. Code § 109a](https://www.law.cornell.edu/uscode/text/17/109)):
+> _"Notwithstanding the provisions of section 106 (3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord."_
+
+---
+
+# What are First Sale, and Fair Use?
+
+## So why is First Sale important? 
+
+---
+
 # What are First Sale, and Fair Use?
 
 Fair Use ([ 17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107)):
@@ -250,15 +275,6 @@ Fair Use ([ 17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/10
 > - the nature of the copyrighted work;
 > - the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
 > - the effect of the use upon the potential market for or value of the copyrighted work.
-
----
-
-# What are First Sale, and Fair Use?
-
-They are (incredibly important!) exceptions to the exclusive rights held by copyright owners.
-
-First Sale ([17 U.S. Code § 109a](https://www.law.cornell.edu/uscode/text/17/109)):
-> _"Notwithstanding the provisions of section 106 (3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord."_
 
 ---
 
