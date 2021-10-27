@@ -12,7 +12,7 @@ class: center, middle
 - Final project -- questions?
 - News of the Week
 - Readings
-Break!
+- Break!
 - Ethics and Values
   - in Technology
 - Open source, free software
