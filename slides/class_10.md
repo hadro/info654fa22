@@ -266,12 +266,20 @@ N.B. Different systems do this differently! For example, GGPlot in the R program
 
 # Examples from Life Experience
 
-Here are just two examples of data analysis and data viz Josh has done in real-life situations:
+![NYPD 311 chart](img/Brooklyn.png)
 
+---
+# Examples from Life Experience
+
+Here are just a few examples of data analysis and data viz I've done in real-life situations:
+- [Analysis of NYPD responses to 311 illegal Parking complaints](https://twitter.com/Hadro/status/1448846765499822094)
 - [Analysis of the Greene Hill Food Co-op usage patterns](https://hadro.github.io/ghfc/ghfc_psfc_report)
   - Written using R programming language and RMarkdown, with a viz tool called [GGPlot](https://ggplot2.tidyverse.org/)
 - [HathiTrust Usage Analysis](https://hadro.github.io/hathi_analysis/analysis.html)
   - Written using Python and Jupyter Notebooks
+
+
+
 
 ---
 
@@ -283,14 +291,12 @@ Let's try using the data we examined above, in a tool call Plot.ly
 
 https://plot.ly/create/
 
-Example Data links again:
-- [311 Data](https://raw.githubusercontent.com/hadro/info654fa21/master/data/311_sample.csv)
-- [Met Data](https://raw.githubusercontent.com/hadro/info654fa21/master/data/Met_sample.csv)
-- [Squirrel Census data](https://raw.githubusercontent.com/hadro/info654fa21/master/data/Squirrel_sample.csv)
+- 311 Data: 
+- <https://raw.githubusercontent.com/hadro/info654fa21/master/data/311_sample.csv>
 
 
 - At top left, click "Import"
-- select "By URL" Tab, and paste in URL to one of the CSVs above
+- select "By URL" Tab, and paste in the 311 CSV data URL above
 - Add a "trace" in the left pane, and try out different plot types with different variable combinations
   - Tip: Scatter, Bar, and Histogram will be the easiest until you have a deeper understanding of the contours of the data
 
@@ -302,10 +308,7 @@ Example Data links again:
 
 
 Asking again:
-What are the kinds of stories we can tell with the following:
-- Open Data from the Met Museum?
-- Open Data from the NYC 311 Data collection?
-- The Squirrel census data?
+What are the kinds of stories we can tell with this 311 data set?
 
 ---
 # Exploring and Visualizing other data sets
@@ -338,5 +341,5 @@ It's not perfect, but it can help get us started.
 - Explore the ["Popular Data Sets"](https://data.cityofnewyork.us/browse?limitTo=datasets&q=&sortBy=most_accessed&utf8=%E2%9C%93)
 - Pick one and click into it
 - At the top, click "Visualize..." and then "Create Visualization" (not "Open in Plotly", because these will mostly be too big to export to Plotly well)
-- From there, begin by picking "Demensions" from the drop-down on the left
+- From there, begin by picking "Dimensions" from the drop-down on the left
 - After trying a few of those, try picking one of the different plot in the icons above the viz window (try to pick one with a green "recommended" view)
