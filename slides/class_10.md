@@ -13,7 +13,7 @@ class: center, middle
 - News of the Week
 - Readings
 - Break!
-- Privacy/security
+- Privacy
 - Data analysis
 - Visualization
 - BREAK!
@@ -89,6 +89,15 @@ Why does privacy matter?
 
 Why is it important?
 
+---
+# Privacy
+
+Are there cases where privacy comes into conflict with other things we value?
+
+What are some examples?
+
+What about technology-specific examples?
+
 
 ---
 # Privacy
@@ -122,6 +131,21 @@ https://www.metafilter.com/113517/Global-Village-People
 > "There was a time when people thought this was a real thing with immense value, which, once lost, was lost forever, and so they would go to incredible lengths to preserve it. People were weird back then."
 
 > <small>posted by escabeche at 15:08 on March 4, 2012</small>
+
+---
+
+# Privacy
+
+## Takeaway
+
+Personal privacy is a complex topic, and people have very different feelings about it!
+
+In a consumer technology context, and especially in the information professions, the most important thing is to understand the **ramifications and implications** of the things you are working on -- 
+
+
+--
+
+especially when it comes to data collection and analysis.
 
 ---
 
@@ -220,6 +244,14 @@ What are the kinds of stories we can tell with those data sets?
 - How could this data be used against someone?
 - How could a person or a group of people be misrepresented by this data?
 
+--
+   
+  
+What kinds of biases are potentially baked into those previous data sets?
+- 311 data? 
+- Met Museum open access data? 
+- Squirrel census data? 
+
 
 ---
 
@@ -308,7 +340,13 @@ https://plot.ly/create/
 
 
 Asking again:
-What are the kinds of stories we can tell with this 311 data set?
+- What are the kinds of stories we can tell with this 311 data set?
+
+--
+
+- What kinds of bias and error seem baked into this data set?
+
+
 
 ---
 # Exploring and Visualizing other data sets
