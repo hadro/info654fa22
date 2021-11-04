@@ -329,7 +329,7 @@ https://plot.ly/create/
 
 - At top left, click "Import"
 - select "By URL" Tab, and paste in the 311 CSV data URL above
-- Add a "trace" in the left pane, and try out different plot types with different variable combinations
+- Add a "trace" in the left pane, and try out different plot types with different variable combinations (i.e., try selecting different variables in the 'X' and 'Y' fields)
   - Tip: Scatter, Bar, and Histogram will be the easiest until you have a deeper understanding of the contours of the data
 
 ---
