@@ -4,7 +4,7 @@ class: center, middle
 
 # Welcome to Class 13!
 
-- this is a stressful time on top of a stressful time
+- I hope you are all feeling rested!
 
 ![](./img/bgstar.gif)
 
@@ -14,10 +14,9 @@ class: center, middle
 - Housekeeping
 - Questions?
 - News of the Week
-- Break!
 - Readings
 - How things all come together
-- Tech stacks
+- Content management
 - Break!
 - Digital preservation
 
@@ -33,11 +32,6 @@ class: center, middle
 
 Drop a link on the etherpad:
 <https://etherpad.wikimedia.org/p/prattsi654fa21-13>
-
----
-class: middle, center
-
-# Break!
 
 ---
 # Readings
@@ -59,7 +53,8 @@ class: middle, center
 ---
 # First, tech infrastructure
 
-- Questions about this, things that are still confusing?
+- General questions about this, things that are still confusing?
+
 ---
 # Sides
 
@@ -67,9 +62,12 @@ Do you know what these terms mean?
 - "Client-side", "server-side"
 - "Backend", "Frontend"
 ---
-# Tech "stacks"
+# What are Tech "stacks"?
 
-![](./img/techstacks.png)
+--
+An example: 
+
+![](https://images.ctfassets.net/4zfc07om50my/2oI5ahL8LV4ZZbDtE3dnGH/903729ef2d47e896044f9522b95d663d/Tech-Stack.jpg?w=2000&h=1140&q=50&fm=webp)
 
 ---
 # Examples
@@ -79,15 +77,17 @@ Do you know about...
 - ["full stack JavaScript"](https://www.smashingmagazine.com/2013/11/introduction-to-full-stack-javascript/)
 
 ---
-# AWS
+# The cloud (or the "cloud"...)
 
-Amazon kinda has their own complex infrastructure, too
+What does this term mean? What do people mean when they say they're migrating things to the cloud?
+  
 
-![](./img/aws-diagram.webp)
+--
+![](https://miro.medium.com/max/325/1*el4nHcOQdfHxzzcTC99jDw.png)
 
 ---
 
-# AWS
+# "Serverless" computing
 
 Perhaps you've heard the term `serverless`
 
@@ -95,7 +95,7 @@ What does `serverless` mean in this context?
 
 
 ---
-# How do websites get built?
+# So how do modern websites get built?
 
 ![](./img/fancy-horse.gif)
 
@@ -133,7 +133,7 @@ Next levels of functionality:
 - Images as well as text, and then other media types
     - Multiple data types
     - templates and other custom  according to data types
-- Searchability
+- Searchability/indexing
 - Version control
 
 
@@ -146,6 +146,24 @@ What it boils down to:
 - Flexibility
 - Collaboration
 
+---
+
+# Next steps
+
+Taking the same prinicples, this then extends to other domains:
+
+- Metadata Management System (also known as a database + opac)
+- Digital Asset Management System
+- Content Management System
+- Content Management Framework
+- Learning Management Systems [like Moodle, Blackboard, Canvas, etc.]
+
+---
+
+
+class: center, middle 
+
+# BREAK!
 
 ---
 class: center, middle 
@@ -237,7 +255,11 @@ Well, what does [Wikipedia](https://en.wikipedia.org/wiki/Digital_preservation) 
 ---
 # What is not Digital Preservation?
 
-**More than just "backing things up."**
+**It's more than just "backing things up."**
+
+Why?
+
+--
 
 Storage is just one aspect (although a very big and important one) of proper digital preservation. This can be the hardest to convey when discussing digital preservation planning in the framework/context of IT teams. 
 
@@ -274,6 +296,9 @@ And, how to avoid the threats:
 
 - Replication
 - Migration
+- Emulation
+--
+
 - Transparency 
 - Diversity
 - Auditing (everywhere)
@@ -301,19 +326,23 @@ Humans are producing massive amounts of digital content. What is worth acquiring
 
 # 💵
 
+--
+
+One example of an [appraisal workflow and decision tree](https://lib.utah.edu/pdf/digital-library/appraisal-selectionguide.pdf)
+
 ---
 # Identification 
 
 Identify files you have (technical metadata) as well as the significance of the content within them (descriptive metadata).
 
-See [Analysis Tools]({{ site.baseurl }}/presentations/other-analysis-tools.html) for more information about this topic. 
+See [Analysis Tools](https://training.ashleyblewer.com/presentations/other-analysis-tools.html) for more information about this topic. 
 
 # 🔬
 
 ---
 # Fixity
 
-See [Fixity]({{ site.baseurl }}/presentations/fixity.html) for more information about this topic. 
+See [Fixity](https://training.ashleyblewer.com/presentations/fixity.html) for a deep dive on this topic. 
 
 # 🔨
 
