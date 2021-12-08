@@ -28,6 +28,22 @@ Drop a link on the etherpad:
 <https://etherpad.wikimedia.org/p/prattsi654fa21-14>
 
 ---
+
+## Readings
+
+<p>Readings:</p>
+
+<ul>
+  <li>2008-10-23. Ryan Deschamps. <a href="http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/">What is a Database, really? Data Storage for Librarians</a> (12 min)</li>
+  <li>Current. Wikiversity. <a href="https://en.wikiversity.org/wiki/Relational_Databases/Introduction">Introduction to Relational Databases</a> (10 min)</li>
+  <li>c.2009. Randy Jay Yarger, George Reese, and Tim King. <a href="http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm">Chapter 1. Introduction to Relational Databases</a> (10 min)</li>
+  <li>2013-11-07. Noah Veltman. <a href="https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/">SQL: The Prequel (Excel vs. Databases)</a> (13 min)</li>
+  <li>2015-09-12. Ruth Kitchin Tillman. <a href="http://ruthtillman.com/an-introduction-to-sql-for-librarians/">An Introduction to SQL for Librarians</a> (12 min)</li>
+  <li>
+    <p>2015-06-27. qntm. <a href="https://qntm.org/support">Obergefell v. Hodges: the database engineering perspective</a> (8 min)</p>
+  </li>
+</ul>
+---
 class: middle, center
 
 # Break!
