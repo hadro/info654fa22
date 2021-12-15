@@ -5,7 +5,7 @@ class: center, middle
 # Welcome to Class 15!
 --
 
-`<sniffle>`The Last class! `</sniffle>`
+`<sniffle>`The last class! `</sniffle>`
 
 ---
 
@@ -88,6 +88,12 @@ class: middle, center
 --
 
 - What technology are you most excited about to dig into a bit deeper?
+
+--
+
+- **Maybe most importantly:** How do you feel about your role in understanding and working with these technologies?
+
+- What will you do differently as a result of what you've learned this semester?
 
 ---
 
