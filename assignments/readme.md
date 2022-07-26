@@ -3,10 +3,10 @@
 Assignments will be posted in this folder.
 
 - [Reflection and Inspiration Posts](reflection_and_inspiration_posts.md)
-- [Personal Homepage](personal_homepage.md)
+<!-- - [Personal Homepage](personal_homepage.md)
 - [Blank Technology Canvas Pitch Presentation](blank_technology_presentation.md)
 - [Blank Technology Canvas Report](blank_technology_canvas_report.md)
-
+ -->
 ## Due Dates
 
 These are all listed in both the [`syllabus`](../syllabus) and on the individual assignment documents, but for easy reference here are the due dates for the semester:
