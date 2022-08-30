@@ -1,4 +1,4 @@
-# Information Technologies, INFO 654-04, Fall 2021
+# Information Technologies, INFO 654-04, Fall 2022
 
 **Technology and Service Inspiration Posts (10% of total grade)**
 
