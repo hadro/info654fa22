@@ -3,8 +3,7 @@
 **Section**: INFO 654-04  
 **Credits**: 3  
 **Day and Time**: Wednesday 06:30PM - 09:20PM  Eastern Time  
-**Location**: Remote Zoom Room (see email from me for link + passcode)
-[If zoom overall is having issues, I'll email you a link to a backup/alternative meeting plan]
+**Location**:  Manhattan - W14, Room 606
 
 **Instructor:**
 
@@ -14,29 +13,25 @@
 
 **Office Hours:** Before class, and by appointment as needed
 
-**Tech Tutor(s) for Fall 2021:**  
+**Tech Tutor(s) for Fall 2022:**  
 Email: <techtuto@pratt.edu>
 
 **Course Collaborative Notes**  
-<https://etherpad.wikimedia.org/p/prattsi654fa21-1>  
+<https://etherpad.wikimedia.org/p/prattsi654fa22-1>  
 \[increment last digit for subsequent class numbers, e.g. -2 for class
 session 2, -6 for class session 6, etc.\]  
 N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
 **Course WordPress site:**  
-<https://lis654fa21.wordpress.com/>
+<https://lis654fa22.wordpress.com/>
 (invitations and logins to come)
 
-**Course Slack Channel:** #654-04-fall-2021
-<https://prattischool.slack.com/archives/C02CSAWEVQV>
-(Requires Pratt SSO (Single Sign-On) which should be your Onekey username and password)
-
 **Assignments**
-<https://github.com/hadro/info654fa21/tree/master/assignments>  
+<https://github.com/hadro/info654fa22/tree/master/assignments>  
 
 **Course hashtag**
 [\#INFO654](https://twitter.com/search?f=tweets&q=%23info654)
-(this is optional!)
+(this is totally optional, and not very high traffic!)
 
 ## Course Description
 
@@ -110,7 +105,7 @@ or outside of class.
 
 Pratt SI offers technology tutorial assistance to students taking 654
 and other courses. Assistance with development components of assignments
-should be directed to the tutor. The tutoring service is managed through
+should be directed to the tutor. The tutoring service is managed through
 the SI office and is available 20 hours a week either by walk-in or
 appointment. For information on hours of operation, contact the SI
 office or see above.
@@ -127,7 +122,7 @@ If you are approved for the course waiver, you will be notified within one week 
 
 ## Class Schedule
 
-### September 01 --- [Introduction and Information Technology Basics](../slides/class_1.html)
+### August 31 --- [Introduction and Information Technology Basics](../slides/class_1.html)
 
 In class: We will meet each other, learn about the class, and set up WordPress blog profiles!
 
@@ -135,7 +130,7 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 A list of slides will become available [here](../slides/index.html).
 
-### September 08 --- [The Internet, Networks, and Protocols](../slides/class_2.html)
+### September 07 --- [The Internet, Networks, and Protocols](../slides/class_2.html)
 
 **Due: Technology and Service Inspiration Post 1**
 
@@ -149,7 +144,7 @@ Readings:
 - 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7min)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
-### September 15 --- [Web Design Basics: HTML (LAB)](../slides/class_3.html)
+### September 14 --- [Web Design Basics: HTML (LAB)](../slides/class_3.html)
 
 **Due: Reflection Post 1**
 
@@ -160,7 +155,8 @@ Readings:
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/) (8min)
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/) (16min)
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
-- [The Evolution of the Web](https://web.archive.org/web/20210227000056/http://www.evolutionoftheweb.com/?hl=en) (infographic)
+- 2021-09-14. Tom McGrath. [Can MIT’s Tim Berners-Lee Save the Web?](https://www.bostonmagazine.com/news/2021/09/14/tim-berners-lee/) (22 min)
+
 
 Optional, web history:
 
@@ -173,7 +169,7 @@ Technical resources:
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
-### September 22 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
+### September 21 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
 
 Readings:
 
@@ -194,7 +190,11 @@ Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### September 29 --- [Digitization, File Formats and Web Design Wrap-up](../slides/class_5.html)
+Optional:
+
+- [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
+
+### September 28 --- [Digitization, File Formats and Web Design Wrap-up](../slides/class_5.html)
 
 **Due: Technology and Service Inspiration Post 2**
 
@@ -212,13 +212,14 @@ Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
-### October 06 --- [Usability, User Experience, and Universal Design](../slides/class_6.html)
+### October 05 --- [Accessibility, Usability, and Universal Design](../slides/class_6.html)
 
 **Due: Reflection Post 2**
 
 Readings:
 
 - 2017-09-20. Ashley Blewer. [Accessibility and Archivability](https://bits.ashleyblewer.com/blog/2017/09/20/accessibility-and-archivability/) (6 min)
+- 2022. ADA.gov. [Guidance on Web Accessibility and the ADA](https://beta.ada.gov/resources/web-guidance/) (10 minutes)
 - 2013-08-27. Aarron Walter. [Connected UX](http://alistapart.com/article/connected-ux) (9 min)
 - [Web Style Guide- Chapter 2*:* Universal Usability](http://www.webstyleguide.com/wsg3/2-universal-usability/index.html) (note this is across several pages)
 - 2009-10-06. Dana Chisnell. [Usability Testing Demystified](https://alistapart.com/article/usability-testing-demystified) (8 min)
@@ -227,9 +228,12 @@ Readings:
 - 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31) (7 min)
 - c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main) (20 min)
 
-Fun:
+Optional Fun:
 
+- 2007-08. Stephen Few. [Save the Pies for Dessert](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)
+- 2018-05-09. Jason Clauss. [The Five Stages of Grief Over the Death of Pie Charts](https://uxplanet.org/the-five-stages-of-grief-over-the-death-of-pie-charts-effb54894fee)
 - 2017-06-04. Fabricio Teixeira. [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950) 
+- 2022-06-17. Aaron Straup Cope. [have you now or have you ever](https://aaronland.info/weblog/2022/06/17/expectations/#usf)
 
 Resources:
 
@@ -240,7 +244,7 @@ Resources:
 - [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
 
-### October 13 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
+### October 12 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
 
 Readings:
 
@@ -254,7 +258,7 @@ Readings:
 - 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158) (18 min)
 
 
-### October 20 --- [APIs and Linked Data (LAB)](../slides/class_8.html)
+### October 19 --- [APIs and Linked Data (LAB)](../slides/class_8.html)
 
 **Due: Personal homepage**
 
@@ -265,11 +269,14 @@ Readings:
 - 2020-12-13 Raivat Shah. [Introduction to REST APIs: Get started with RESTful APIs using a real-world example](https://towardsdatascience.com/introduction-to-rest-apis-90b5d9676004) (5 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
 - 2012-06-16. Manu Sporny. [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
-- 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
+- 2017-05-07. Jonathan Blaney. [Introduction to the Principles of Linked Open Data](https://programminghistorian.org/en/lessons/intro-to-linked-data) (25 minutes)
 - 2017-10-19. Mia Ridge. [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
+Optional:
 
-### October 27 --- [Technology Law and Ethics](../slides/class_9.html)
+- 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
+
+### October 26 --- [Technology Law and Ethics](../slides/class_9.html)
 
 Readings:
 
@@ -289,7 +296,7 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 - [ALA Code of Ethics](http://www.ala.org/tools/ethics)
 - [Mapping open source in museums](https://geealbers.github.io/mapping-open-source/network/)
 
-### November 03 --- [Data analysis and visualization, and privacy/security/content moderation](../slides/class_10.html)
+### November 02 --- [Data analysis and visualization, and privacy/security/content moderation](../slides/class_10.html)
 
 **Due: Technology and Service Inspiration Post 3**
 
@@ -311,17 +318,17 @@ Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
-### November 10 --- Blank Technology Canvas Pitch Presentations Feedback
+### November 09 --- Blank Technology Canvas Pitch Presentations Feedback
 
 **Due: Blank Technology Canvas Pitch Presentations**
 
 
-### November 17 --- Blank Technology Canvas Pitch Presentations Feedback
+### November 16 --- Blank Technology Canvas Pitch Presentations Feedback
 **Due: Reflection Post 3**
 
-### November 24 --- NO CLASS!
+### November 23 --- NO CLASS!
 
-### December 01 --- [Content Management, Digital Asset Management, Digital Preservation](../slides/class_11.html)
+### November 30 --- [Content Management, Digital Asset Management, Digital Preservation](../slides/class_11.html)
 
 Readings:
 
@@ -335,7 +342,7 @@ References:
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
-### December 08 --- [Databases and Structured Queries (LAB)](../slides/class_14.html)
+### December 07 --- [Databases and Structured Queries (LAB)](../slides/class_14.html)
 
 Readings:
 
@@ -359,7 +366,7 @@ above):
 
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
-### December 15 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
+### December 14 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
 
 **Due: Blank Technology Canvas Final Report Site**
 
@@ -410,10 +417,7 @@ provided below with some regularity.
 - Humane Ingenuity (Dan Cohen, Northeastern University Library): <https://buttondown.email/dancohen>
 - Soulful Computing by David Nuñez, MIT Museum: <https://buttondown.email/davidnunez/>
 - "Dig It!", a newsletter featuring digital trends and practices from museums & cultural institutions. <https://embracedigital.substack.com/p/coming-soon>
-- Center for the Future of Libraries: <http://www.ala.org/transforminglibraries/future>
-- Code4lib: <https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB>
 - Current Cites: <http://currentcites.org/>
-- Above the Fold from OCLC: <http://www.oclc.org/research/publications/newsletters/abovethefold.html>
 
 
 **Also recommended more general publications:**
@@ -424,7 +428,6 @@ provided below with some regularity.
 - <http://www.theatlantic.com/technology/>
 - <http://www.nytimes.com/pages/technology/>
 - <http://www.newyorker.com/magazine/annals-of-technology>
-- <http://metafilter.com>
 - <http://chronicle.com/section/Technology/30/>
 - <http://www.insidehighered.com/news/focus/technology>
 - <https://news.ycombinator.com/>
@@ -432,6 +435,7 @@ provided below with some regularity.
 
 ## Coding tutorials and sandboxes:
 
+- [Getting started with the Command Line (in roughly 20-50 minutes)](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)[Highly recommended, from a fellow lIS professor Miriam Posner]
 - [Codecademy](https://www.codecademy.com)
 - [Programming Historian](https://programminghistorian.org/lessons/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
@@ -444,21 +448,15 @@ card](https://www.nypl.org/collections/articles-databases/lyndacom)!]
 All graded assignments must be added to the class WordPress blog or
 emailed to the instruction before class on the due date (unless
 otherwise noted). If there is a medical or personal reason for absences
-or late homework assignments, you must present your excuse in advance
-and in writing, via email. Students who do not give advance notice and
-receive approval will be subject to a **10% of grade per-day penalty**
-on late homework assignments. Late assignments will receive a grade, but
-may not receive feedback. Assignments more than 4 days late will not be
-graded (and will earn a "0") unless you have prior written approval from
-your instructor.
+or late homework assignments, please present your excuse in advance
+and in writing, via email. Unexcused late assignments will receive a reduced grade, and may not receive feedback.
 
-1.  Reflection Posts (25%)
+1.  Reflection Posts (20%)
 2.  Technology and Service Inspiration Posts (10%)
-3.  Personal Homepage (20%)
+3.  Personal Homepage (25%)
 4.  Blank Technology Canvas Presentation (10%)
 5.  Blank Technology Canvas Report (25%)
-6.  News of the Week (5%)
-6.  Class discussion and participation (5%)
+6.  News of the Week (10%)
 
 **Technology and Service Inspiration Posts (10%)**
 
