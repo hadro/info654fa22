@@ -4,24 +4,24 @@
 
 **And**
 
-**Reflection Posts (25% of total grade)**
+**Reflection Posts (20% of total grade)**
 
-**Blog URL:** <https://lis654fa21.wordpress.com/>
+**Blog URL:** <https://lis654fa22.wordpress.com/>
 
 Due Dates:
 -----------
 
 **Technology & Service Inspiration Posts**
 
-- September 08
-- September 29
-- November 03
+- September 07
+- September 28
+- November 02
 
 **Reflection Posts**
 
-- September 15
-- October 06
-- November 17
+- September 14
+- October 05
+- November 16
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of

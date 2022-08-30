@@ -26,12 +26,12 @@ See you in class!
 
 ---
 
-Course Notes via Etherpad: <https://etherpad.wikimedia.org/p/prattsi654fa21-1>  
+Course Notes via Etherpad: <https://etherpad.wikimedia.org/p/prattsi654fa22-1>  
 \[increment last digit for subsequent class numbers, e.g. -2 for class
 session 2, -6 for class session 6, etc.\]  
 N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
-Course WordPress site:   [https://lis654fa21.wordpress.com/](https://lis654fa21.wordpress.com/) (invitations and logins to come)
+Course WordPress site:   [https://lis654fa22.wordpress.com/](https://lis654fa22.wordpress.com/) (invitations and logins to come)
 
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
