@@ -16,13 +16,12 @@ See you in class!
 
 *Day and Time*: Wednesday 06:30PM - 09:20PM  
 
-*Location*: Remote Zoom Room (see email from us for link)
-[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
+*Location:  Manhattan - W14, Room 606
 
-*Instructors*:  
+*Instructor*:  
 - Josh Hadro (You can call me "Josh", pronouns he/his)
 
-*Office Hours*: by appointment  
+*Drop-in Hours*: Before class, and by appointment  
 
 ---
 

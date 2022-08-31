@@ -11,7 +11,7 @@
   - josh.hadro at gmail dot com
   - \(917) 428-4152
 
-**Office Hours:** Before class, and by appointment as needed
+**Drop-in hours:** Before class, and by appointment as needed
 
 **Tech Tutor(s) for Fall 2022:**  
 Email: <techtuto@pratt.edu>
@@ -154,7 +154,7 @@ Readings:
 - c.1998. Addison Wesley Longman. [A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html) (32min)
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/) (8min)
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/) (16min)
-- Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
+- Sir Tim Berners-Lee. [The next web](https://www.ted.com/talks/tim_berners_lee_the_next_web?language=en) (video, 16 minutes)
 - 2021-09-14. Tom McGrath. [Can MIT’s Tim Berners-Lee Save the Web?](https://www.bostonmagazine.com/news/2021/09/14/tim-berners-lee/) (22 min)
 
 
@@ -167,7 +167,6 @@ Optional, web history:
 Technical resources:
 
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-- [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
 ### September 21 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
 
@@ -183,7 +182,6 @@ Technical resources:
 - [CSS Basics](http://www.cssbasics.com/)
 - Current. Mozilla. [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - Current. Mozilla. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
-- [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
 
 Bonus:
 
@@ -192,7 +190,7 @@ Bonus:
 
 Optional:
 
-- [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
+- 2022-03-27. Miriam Posner. [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 
 ### September 28 --- [Digitization, File Formats and Web Design Wrap-up](../slides/class_5.html)
 
@@ -304,8 +302,8 @@ Readings:
 
 - 2017-09-18. [Intro To Data Analysis For Everyone! Part 1](https://towardsdatascience.com/intro-to-data-analysis-for-everyone-part-1-ff252c3a38b5) (10 min + v20 min video)
 - 2019-06-02. Lindsey Rogers Cook. [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) (5 min)
-- [Data + Design: A simple introduction to preparing and visualizing
-information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf) Read Chapters 1-2 and 12-13 [PDF]
+- Data + Design: A simple introduction to preparing and visualizing
+information: Read Chapters [1](https://trinachi.github.io/data-design-builds/ch01.html)-[2](https://trinachi.github.io/data-design-builds/ch02.html) and [12](https://trinachi.github.io/data-design-builds/ch12.html)-[13](https://trinachi.github.io/data-design-builds/ch13.html)
 - 2018-10-17. Nathan Yau. [Ask the Question, Visualize the Answer](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/) (6 min)
 - 2019-02. Kashmir Hill. [Goodbye Big Five](https://gizmodo.com/c/goodbye-big-five) (Either read text or watch videos)
 - 2019-11-05. Amelia Acker. [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/) (Download PDF -- 15 min)
