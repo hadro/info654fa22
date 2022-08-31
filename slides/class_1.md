@@ -188,6 +188,16 @@ class: center, middle
 
 
 ---
+
+class: center, middle
+
+<img src="./img/pratt_dinosaurs.png" width="100%">
+
+`"Pratt-themed dinosaurs roaming the streets of NYC"`
+
+
+
+---
 class: center, middle
 
 <img src="./img/IMG_7423.jpeg" style="width: 50%;" alt="Rhea" />
