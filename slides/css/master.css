@@ -15,3 +15,7 @@ img {
   max-width: 90%;
   max-height: 90%;
 }
+
+.image {
+  max-width: 500px;
+}

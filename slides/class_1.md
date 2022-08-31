@@ -2,9 +2,16 @@ This page intentionally left blank. ⬇️, ➡️, or spacebar 🛰 to start sl
 ---
 class: center, middle
 
-# Welcome!
+
+# Welcome to 654!
+
+--
+
+Or should I say...
+
 
 ---
+
 
 class: center, middle
 
@@ -27,8 +34,7 @@ class: center, middle
 **Section**: INFO 654-04  
 **Credits**: 3  
 **Day and Time**: Wednesday 06:30PM - 09:20PM  Eastern Time  
-**Location**: Remote Zoom Room (see email from us for link)
-[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
+**Location**:  Manhattan - W14, Room 606
 
 ## Your instructor
 
@@ -67,7 +73,6 @@ How I generally structure class (`Meta-structure!`):
   - Course Philosophy
 - Assignments
 - Break!
-- Slack invites
 - WordPress blog
   - Categories! Important!
 
@@ -78,7 +83,7 @@ How I generally structure class (`Meta-structure!`):
 
 ## How this semester will work  
 
-A lot like last fall...
+A lot like the last few semesters...
 
 --
 
@@ -97,27 +102,16 @@ class: center, middle
 
 ## Tools
 
-- Zoom (or backup if Zoom is having issues)
-- [Slack](https://prattischool.slack.com/archives/C02CSAWEVQV)
-- [WordPress](https://lis654fa21.wordpress.com/)
+- [WordPress](https://lis654fa22.wordpress.com/)
 - Slides ([remark.js](https://github.com/gnab/remark))
-- [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa21-1)
+- [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa22-1)
 - Good old email
-
----
-
-## Recording class
-
-We'll consider recording individual class sessions, or sections of a class, *upon request*.  
-So everyone should know that's a possibility, and we'll also make it clear as it is happening.
-
-Meanwhile, links to the recordings will only be made available to students in this class, and should not be shared with others or posted publicly.
 
 ---
 
 Before we get to the first in-class exercise...
 
-# What questions do you have?
+# What questions do you have so far?
 
 
 ---
@@ -157,24 +151,46 @@ class: center, middle
 
 
 ---
+
 class: center, middle
 
-![NYPL Cool Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/b906b76b7a430b4fb53afa2b1dab21f5)
+![IIIF Logo](https://hadro.github.io/presentations/iiif_community_update/iiif_community_update/b906b76b7a430b4fb53afa2b1dab21f5)
 
 
 ---
+
 class: center, middle
 
 ![IIIF Logo](https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png)
 
 ---
+class: center, middle
 
-![IIIF + Dinosaurs](./img/cropped-a-photo-realistic-and-beautiful-painting-of-iiif-and-also-dinosaurs-by-james-gurney_5000-1-1.png)
+<img src="./img/IIIF_dinosaurs_crimson_blue_1024_150steps.png" width="100%">
+
+`"IIIF + dinosaurs, by James Gurney"`
+
 
 ---
 class: center, middle
-<!-- ![Rhea](./img/IMG_4496.jpeg) -->
-<img src="./img/IMG_4496.jpeg" style="width: 65%;" alt="Rhea" />
+
+<img src="./img/IIIF_dinosaurs_1024_150steps.png" width="100%">
+
+`"IIIF + dinosaurs, by James Gurney"`
+
+---
+
+class: center, middle
+
+<img src="./img/unknown.png" width="100%">
+
+`"a portrait of Tom Hanks eating a potato, by Annie Leibovitz"`
+
+
+---
+class: center, middle
+
+<img src="./img/IMG_7423.jpeg" style="width: 50%;" alt="Rhea" />
 
 ---
 
@@ -187,6 +203,11 @@ class: center, middle
 - day job or relevant experience (if any; ok if not!)
 - any specific interests you might have for this course
 
+
+---
+class: center, middle
+
+# Break!
 
 ---
 class: center, middle
@@ -207,7 +228,7 @@ Give this some thought, and make the most of your time+$ at Pratt!
 # Syllabus
 
 The canonical version of the syllabus lives in our class Github repository:
-[INFO 654-04 Syllabus](https://hadro.github.io/info654fa21/syllabus/)
+[INFO 654-04 Syllabus](https://hadro.github.io/info654fa22/syllabus/)
 
 --
 ## We'll go section by section
@@ -246,8 +267,8 @@ While the assignments, other than the presentation assignment, don't require gro
 # Assignments
 
 - News of the Week
-- [Inspiration posts](https://hadro.github.io/info654fa21/assignments/reflection_and_inspiration_posts)
-- [Reflection posts](https://hadro.github.io/info654fa21/assignments/reflection_and_inspiration_posts#reflection-posts)
+- [Inspiration posts](https://hadro.github.io/info654fa22/assignments/reflection_and_inspiration_posts)
+- [Reflection posts](https://hadro.github.io/info654fa22/assignments/reflection_and_inspiration_posts#reflection-posts)
 - Personal Homepage project
 - Blank Technology Canvas project
   - Presentation
@@ -264,22 +285,12 @@ Questions about the first assignments?
 ---
 class: center, middle
 
-# In-class exercises
+# In-class exercise
+
 
 ---
 
-## In-class exercise 1
-
-1. Accept Slack invitation
-2. Log into Slack
-3. Send a message to the #654-04-fall-2021 channel that includes your favorite emoji 🎉
-
-[https://prattischool.slack.com/archives/C02CSAWEVQV](https://prattischool.slack.com/archives/C02CSAWEVQV)
-
----
-## In-class exercise 2
-
-### WordPress
+## WordPress
 
 
 --
@@ -296,14 +307,14 @@ class: center, middle
 
 
 Make sure you have access to these two pages:
-- <https://lis654fa21.wordpress.com/wp-admin/>
-- <https://wordpress.com/post/lis654fa21.wordpress.com>
+- <https://lis654fa22.wordpress.com/wp-admin/>
+- <https://wordpress.com/post/lis654fa22.wordpress.com>
 
 --
 
 ## 2. Fill out form on homepage of class WordPress sites
 
-<https://lis654fa21.wordpress.com/>
+<https://lis654fa22.wordpress.com/>
 
 
 ---
