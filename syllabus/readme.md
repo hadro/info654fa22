@@ -468,7 +468,7 @@ separate assignment sheet with specific blog post and format criteria
 will be distributed the first day of class.
 
 
-**Reflection Posts (25%)**
+**Reflection Posts (20%)**
 
 Students will contribute three significant posts to the class blog over
 the course of the semester. Initial topic suggestions and a
@@ -484,7 +484,7 @@ sheet with specific blog post and format criteria will be distributed
 the first day of class.
 
 
-**Personal Homepage (20%)**
+**Personal Homepage (25%)**
 
 Using skills, tools, and technique introduced in class, students will
 create a linked series of web documents featuring biographical
