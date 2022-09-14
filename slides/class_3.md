@@ -134,6 +134,10 @@ Separating **Document Structure** from *Style*
 
 --
 
+(We can actually do this for any page, in Firefox)
+
+--
+
 Why is this necessary? Why develop it this way?
 
 ---
@@ -272,6 +276,11 @@ or
 	<p>Everything you see on the page will go in the body of the HTML</p>
 </body>
 ```
+--
+<hr>
+# Everything you see on the page
+
+Everything you see on the page will go in the body of the HTML
 
 ---
 # Heading tags
