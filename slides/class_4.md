@@ -164,6 +164,10 @@ h1 {
 	text-align: center;
 }
 ```
+--
+
+<h1 style="	color: red;background-color: yellow;border:  2px solid;text-align: center;">Example header</h1>
+
 
 ---
 # Multiple selectors
