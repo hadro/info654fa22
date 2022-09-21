@@ -355,7 +355,7 @@ Try the following (or explore on your own):
 # Images:
 
 - Add another image further down on the page
-- Using CSS size properties on ID attributes, set the image to no more than 200px in height or 200px in width, whichever is the longer of the two dimensions (see dimension properties here: http://www.w3schools.com/css/css_dimension.asp)
+- Using CSS size properties on an ID attribute attached to the image, set the image to no more than 200px in height or 200px in width, whichever is the longer of the two dimensions (see dimension properties here: http://www.w3schools.com/css/css_dimension.asp)
 - Using CSS ID attributes, make the images float on either side of the page to allow text to wrap around them (use the “float:” property mentioned above)
 
 
@@ -364,6 +364,7 @@ Try the following (or explore on your own):
 # More advanced next steps:
 
 - Create a second page using the same template, and link the two pages together
+	+ Hint, make a copy of the index.html page, but save with a new name
 - Add a link back to the index.html page on the subsequent page you created
 - Use an unordered list to create a basic navigation for your pair of pages (see here: http://www.w3schools.com/html/html_lists.asp)
 - Add a properly formatted table to one of the two pages, see here: http://www.w3schools.com/html/html_tables.asp
