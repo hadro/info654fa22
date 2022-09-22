@@ -335,9 +335,9 @@ Try the following (or explore on your own):
 
 - Within the HTML, change the title of the page to read: “My HTML and CSS Lab Assignment”
 - Change the `<h3>` element on the page to be an `<h1>` element instead
-- Add a `<div>` element around the “beeker.jpg” image
+- Add a `<div>` element around the “beeker.jpg” image (this is just structural, nothing will change visually yet!)
 - Add a number of anchor tag links to your favorite sites, and make sure these links work
-- Put a `<p>` text element inside of an `<aside>` html element somewhere on the page
+- Put a `<p>` text element inside of an `<aside>` html element somewhere on the page (again this is just structural, nothing will change visually yet!)
 - From there, try adding other HTML elements, and make they are nested properly and render as you expect them to
 
 ---
