@@ -24,8 +24,9 @@ class: center, middle
 
 ## News of the Week
 
-Drop a link on the etherpad:
-<https://etherpad.wikimedia.org/p/prattsi654fa22-4>
+Drop a link in the airtable via the etherpad:  
+- <https://etherpad.wikimedia.org/p/prattsi654fa22-4>  
+- <https://airtable.com/shrU21jPMI0cEPvw4>
 
 ---
 # Readings
