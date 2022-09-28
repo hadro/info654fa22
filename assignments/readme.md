@@ -4,7 +4,10 @@ Assignments will be posted in this folder.
 
 - [Reflection and Inspiration Posts](reflection_and_inspiration_posts.md)
 - [Personal Homepage](personal_homepage.md)
-<!-- - [Blank Technology Canvas Pitch Presentation](blank_technology_presentation.md)
+
+
+<!-- 
+- [Blank Technology Canvas Pitch Presentation](blank_technology_presentation.md)
 - [Blank Technology Canvas Report](blank_technology_canvas_report.md)
  -->
 
