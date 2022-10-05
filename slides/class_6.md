@@ -136,7 +136,7 @@ What does "comparable" mean in this legislation?
 - Offer navigable design
 - Offer distinguishable design (foreground and background)
 
--- 
+--
 
 ## Out in the field
 
