@@ -70,6 +70,32 @@ And that's a huge part of why UX and accessibility are so tightly connected to t
 “Web accessibility means that the Web is designed so that people with disabilities can perceive, understand, navigate, and interact with it effectively, as well as create and contribute content to the Web.”
 
 ---
+## What does "good" design mean in practice?
+
+What are some examples?
+
+--
+
+## What does "good" user experience mean?
+
+What are some examples?
+
+--
+
+## What does "good" accessibility mean?
+
+What are some examples?
+
+---
+
+## Growing and evolving
+
+These elements are not static!
+They are indeed pulled in (at least) two directions:
+- General user expectations and familiarity
+- Advances in technology and tooling
+
+---
 
 ## What are the roots of modern web accessibility guidelines? 
 
@@ -104,11 +130,20 @@ What does "comparable" mean in this legislation?
 ---
 
 ## Key provisions
-- Provide Text alternatives for image-based media
+- Provide text alternatives for image-based media
 - Provide alternatives for time-based media
 - Offer adaptable design
 - Offer navigable design
 - Offer distinguishable design (foreground and background)
+
+-- 
+
+## Out in the field
+
+What are examples of sites that handle accessibility well?
+
+What about offline? Are there examples that come to mind?
+
 
 ---
 
