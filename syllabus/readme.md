@@ -246,7 +246,7 @@ Resources:
 
 Readings:
 
-- Eric Lease Morgan. [Getting started with XML: A workshop](http://infomotions.com/musings/getting-started/getting-started.pdf) (Read Part I: "General introduction to XML") (4 min)
+- Eric Lease Morgan. [Getting started with XML: A workshop](http://infomotions.com/musings/getting-started/getting-started.pdf) (Read Part I: "General introduction to XML") (14 min)
 - 2020-02-13. Text Encoding Initiative. [A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) (60 min)
 - 2005-09. Ronald Bourret. [XML and Databases](http://www.rpbourret.com/xml/XMLAndDatabases.htm) (Sections 1-4, rest is optional) (13 min)
 - 2011-03-24. Matt Doyle. [JSON Basics: What You Need to Know](http://www.elated.com/articles/json-basics/) (don't worry about the JavaScript
