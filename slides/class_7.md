@@ -522,7 +522,7 @@ Option 2 Senator modeling, a finished example: `XML`
   <homeTown>Hoffman Estates</homeTown>
   <stateRank>2</stateRank>
   <bioguideId>D000622</bioguideId>
-  <office>524 Hart </office>
+  <office>524 Hart</office>
   <committees>
     <committee code="SSEV00">Committee on Environment and Public 
       Works</committee>
@@ -537,7 +537,8 @@ Option 2 Senator modeling, a finished example: `XML`
 ```
 
 ---
-**Option 2 Senator modeling example: `json`**
+**Option 2 Senator modeling example: `json`**  
+
 ```json
 {
    "senators":[
@@ -563,14 +564,16 @@ Option 2 Senator modeling, a finished example: `XML`
                {
                   "code":"SSSB00",
                   "committee":"Committee on Small Business and Entrepreneurship"
-               },
-              //Two more committees here
+               }
             ]
          }
       }
    ]
-}
+} 
 ```
+
+Note: two committees omitted above for space reasons. 
+
 ---
 Just for visual comparison, here's the most compact/compressed version of the same data: 
 ```json
