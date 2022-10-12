@@ -11,8 +11,8 @@ class: center, middle
 - Questions?
 - News of the Week
 - Readings
-- Break!
 - Structured Data
+- Break!
 - XML
 - JSON
 
@@ -464,12 +464,16 @@ XML is all over the place out in the wild -- a few examples!:
 - Numbers are not wrapped in quotation marks (if they're meant as numbers)
 - Elements can repeat but you must use a comma
 
-`{ "a":123, "b":[1,2,3], "c": { "a":1, "b":2 } }`
+```json
+{ "a":123, 
+  "b":[1,2,3], 
+  "c": { "a":1, "b":2, "c":3 } }
+```
 
 
 ---
 
-# Lab Exercise time
+# Simple lab exercise time
 
 Two options:
 
@@ -499,10 +503,11 @@ https://codebeautify.org/xmlvalidator
   - How do you translate XML attributes into JSON?
 - Try using a JSON validator to make sure the JSON is legal ([Example validator](https://jsonformatter.curiousconcept.com/))
 
+Try your hand at a few elements first, and then compare notes with the version Josh did a few slides after this
 
 ---
 
-Option 2 Senator modeling example: `XML`
+Option 2 Senator modeling, a finished example: `XML`
 ```xml
 <senators>
   <senator lis_member_id="S386">
@@ -567,7 +572,7 @@ Option 2 Senator modeling example: `XML`
 }
 ```
 ---
-For comparison, most compact/compressed version of the same data: 
+Just for visual comparison, here's the most compact/compressed version of the same data: 
 ```json
 {"senators":[{"senator":{"lis_member_id":"S386","name":{"first":"Tammy","last":
 "Duckworth","suffix":null},"party":"D","state":"IL","homeTown":"Hoffman Estates"
