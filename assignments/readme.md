@@ -21,6 +21,6 @@ These are all listed in both the [`syllabus`](../syllabus) and on the individual
 -  October 05 --- Due: Reflection Post 2
 -  October 19 --- Due: Personal homepage
 -  November 02 --- Due: Technology and Service Inspiration Post 3
--  November 09 --- Due: Blank Technology Canvas Pitch Presentations
--  November 16 --- Due: Reflection Post 3
+-  November 09 --- Due: Reflection Post 3
+-  November 16 --- Due: Blank Technology Canvas Pitch Presentations
 -  December 14 --- Due: Blank Technology Canvas Final Report Site
