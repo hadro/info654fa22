@@ -318,3 +318,6 @@ Let's go back to our two biggest questions of this class:
 
 --
 - What's the difference between ethics and justice?
+
+--
+- How are concepts of ethics, law, and justice expressed (or not expressed) by means of different technologies?
