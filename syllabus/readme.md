@@ -316,13 +316,13 @@ Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
-### November 09 --- Blank Technology Canvas Pitch Presentations Feedback
+### November 09 --- Class Topic TBD!
+**Due: Reflection Post 3**
 
-**Due: Blank Technology Canvas Pitch Presentations**
 
 
 ### November 16 --- Blank Technology Canvas Pitch Presentations Feedback
-**Due: Reflection Post 3**
+**Due: Blank Technology Canvas Pitch Presentations**
 
 ### November 23 --- NO CLASS!
 
