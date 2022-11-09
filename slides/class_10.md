@@ -287,14 +287,26 @@ What are the kinds of stories we can tell with those data sets?
 
 ## Bias in data!
 
+What are the kinds of bias that get introduced into datasets like these? 
+
+What questions do we need to ask of the data and ourselves?
+
+--
+
+### Examples
+
 - Who is collecting the data?
+- Who created the data?
 - Who or what is represented in the data?
 - What safeguards are in place?
 - How could this data be used against someone?
 - How could a person or a group of people be misrepresented by this data?
 
---
-   
+---
+  
+# Interlude
+
+## Bias in data! 
   
 What kinds of biases are potentially baked into those previous data sets?
 - 311 data? 
@@ -308,7 +320,7 @@ What kinds of biases are potentially baked into those previous data sets?
 
 Great vocabulary of chart types, and ways to use data viz to convey meaning:
 
-https://github.com/ft-interactive/chart-doctor/raw/master/visual-vocabulary/Visual-vocabulary.pdf
+https://github.com/Financial-Times/chart-doctor/raw/main/visual-vocabulary/Visual-vocabulary-en.pdf
 
 
 ![](./img/viz-screen-shot.png)
