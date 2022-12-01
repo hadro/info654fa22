@@ -110,6 +110,12 @@ Perhaps you've heard the term `serverless`
 
 What does `serverless` mean in this context?
 
+---
+
+
+class: center, middle 
+
+# BREAK!
 
 ---
 # So how do modern websites get built?
@@ -186,12 +192,7 @@ Taking the same prinicples, this then extends to other domains:
 - Content Management Framework
 - Learning Management Systems [like Moodle, Blackboard, Canvas, etc.]
 
----
 
-
-class: center, middle 
-
-# BREAK!
 
 ---
 class: center, middle 
@@ -239,7 +240,7 @@ The National Digital Stewardship Alliance (RIP) uses the following four words as
 - Monitor 
 - Repair  -->
 
----
+<!-- ---
 # Library of Congress Digital Preservation steps
 
 - Identify (your digital content)
@@ -250,7 +251,7 @@ The National Digital Stewardship Alliance (RIP) uses the following four words as
 - Provide (access over time)
 
 [Digital Preservation Outreach & Education](http://digitalpreservation.gov/education/curriculum.html)
-
+ -->
 <!-- ---
 # What is Digital Preservation?
 
