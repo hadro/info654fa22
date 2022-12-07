@@ -213,7 +213,9 @@ We can link elements of the two tables together using `keys` to get the view we 
 
 # The relational model
 
-Then, we can link elements of the two tables together to get the view we are likely most interested in:
+But how do we then reconstruct the original view of the data that we wanted in the first place?
+
+We can link elements of the two tables together using `keys` to get the view we are likely most interested in:
 
 - *AuthorID* (from `author` table)
 - FirstName (from `author` table)
@@ -359,6 +361,8 @@ A lot of SQL is very English-like -- commands look like this:
 
 **`SELECT * FROM Cats`**: returns everything in the `Cats` table.  
 
+**`SELECT Name FROM Cats`**: returns just the names in the `Cats` table.  
+
 **`SELECT Name FROM Cats WHERE Status = 'Kitten'`**: returns just the names of all cats with a kitten status.  
 
 Maybe you forgot to make a kitten status when you designed your database, but you do have all the cat birthdays. You can do something like this:   
@@ -480,7 +484,7 @@ The `WHERE` element now sets a condition in the statement. Careful about capital
 
 --
 
-- Now, if we wanted to get just a count of how many passed, how would we do that? Try it on your own. 
+- Now, if we wanted to get just a count of how many passed, how would we do that? Try to figure out that query on your own before continuing. 
 
 ---
 
@@ -529,9 +533,9 @@ AND (year >= 2008 AND year <= 2013) ORDER BY budget DESC
 - As a final advanced option, we can use the `LIKE` operator to find any title that has the number "2" in it, in this case to look for sequels (get it?!)
 ```sql 
 SELECT * FROM [bechdel/movies] WHERE binary = "PASS" 
-AND (title LIKE "% 2%") ORDER BY year ASC
+AND (title LIKE "% 2%" OR title LIKE "% Two") ORDER BY year ASC
 ```
-In this case, the `%` sign means that the `" 2"` can appear anywhere in the title string. 
+In this case, the `%` signs means that the `" 2"` can appear anywhere in the title string, but only looks for `" Two` at the end of the title string (so we don't also capture random movies with the word "two" in them). 
 
 ---
 # SQL
