@@ -530,7 +530,7 @@ in class before embarking on the final proposal report. A separate
 assignment sheet detailing specifications and requirements will be
 distributed in class.
 
-**News of the Week (5%)**
+**News of the Week (10%)**
 
 A huge part of understanding technology is simply the ability to pay attention to new developments and connect them with relevant contexts including prior events. In order to cultivate habits of actively paying attention to technology news and connecting new stories to past contexts, students will be asked to be prepared to share one technology-related news article at the beginning of each class session and very briefly articulate the relevance of the article they've chosen.
 
